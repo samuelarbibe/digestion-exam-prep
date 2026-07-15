@@ -45,10 +45,11 @@
   font-weight: 800;
   line-height: 1.2;
   margin-bottom: 0.75rem;
+  color: #f8fafc;
   background: linear-gradient(135deg, #fff 30%, #94a3b8);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
   background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .subtitle {
@@ -74,6 +75,7 @@
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius);
+  color: var(--text);
   transition: transform 0.15s, border-color 0.15s, box-shadow 0.15s;
 }
 
@@ -97,6 +99,7 @@
   font-size: 1.05rem;
   font-weight: 700;
   margin-bottom: 0.15rem;
+  color: var(--text);
 }
 
 .action-card p {
@@ -126,6 +129,7 @@
   background: var(--surface-2);
   border: 1px solid var(--border);
   border-radius: 12px;
+  color: var(--text);
   transition: background 0.15s, border-color 0.15s;
 }
 
@@ -138,6 +142,7 @@
   font-size: 0.88rem;
   font-weight: 500;
   text-align: right;
+  color: var(--text);
 }
 
 .cat-count {
@@ -224,6 +229,7 @@
   font-weight: 700;
   line-height: 1.5;
   margin-bottom: 1.35rem;
+  color: var(--text);
 }
 
 .options {
@@ -280,6 +286,7 @@
   place-items: center;
   font-weight: 700;
   font-size: 0.85rem;
+  color: var(--text);
   background: rgba(255, 255, 255, 0.06);
   border-radius: 8px;
 }
@@ -310,6 +317,7 @@
   font-size: 0.95rem;
   font-weight: 700;
   margin-bottom: 0.5rem;
+  color: var(--text);
 }
 
 .explanation p {
@@ -386,6 +394,7 @@
   box-shadow: var(--shadow);
   width: 100%;
   max-width: 360px;
+  color: var(--text);
 }
 
 .results-emoji {
@@ -397,15 +406,17 @@
 .results-card h2 {
   font-size: 1.5rem;
   margin-bottom: 0.5rem;
+  color: var(--text);
 }
 
 .results-score {
   font-size: 2.5rem;
   font-weight: 800;
+  color: var(--accent);
   background: linear-gradient(135deg, var(--accent), var(--accent-2));
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
   background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .results-pct {
