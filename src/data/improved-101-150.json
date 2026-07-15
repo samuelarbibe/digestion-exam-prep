@@ -17,12 +17,12 @@
     "category": "היסטולוגיה",
     "question": "מה נמצא בליבת (core) כל villus במעי הדק?",
     "options": [
-      "רק עורק מרכזי ללא נימי דם או לימפה",
       "lacteal (צינור לימפה מרכזי) ורשת capillaries לספיגת חומרים ממוססים",
-      "בלוטת Brunner ורקמת conjunctive submucosal",
-      "plexus myenteric (Auerbach) ו-ganglia אנטריים"
+      "hepatic portal vein ישירות בתוך villus ללא capillaries",
+      "bile duct בתוך villus לאמולסיה של שומנים",
+      "Peyer's patch במרכז כל villus לספיגת חלבונים"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "ליבת villus מכילה lacteal מרכזי (לספיגת chylomicrons ושומנים) ורשת capillaries (לספיגת חומרים ממוססים במים). האפיתל מכסה מבחוץ. Brunner glands נמצאות ב-submucosa של duodenum. plexus myenteric ממוקם ב-muscularis propria, לא ב-villi."
   },
   {
@@ -135,9 +135,9 @@
     "question": "מהם סיבוכי peptic ulcer disease (PUD)?",
     "options": [
       "דימום (hematemesis/melena), perforation, gastric outlet obstruction",
-      "צהבת cholestatic, ascites ו-hepatic encephalopathy",
-      "fistulas perianal, strictures ו-abscesses טרנסמורליים",
-      "toxic megacolon, fulminant colitis ו-CRC מיידי"
+      "צהבת cholestatic, ascites ו-hepatic encephalopathy – סיבוכי PUD",
+      "fistulas perianal, strictures ו-abscesses טרנסמורליים – סיבוכי PUD",
+      "toxic megacolon, fulminant colitis ו-CRC מיידי – סיבוכי פצעת"
     ],
     "correctIndex": 0,
     "explanation": "סיבוכי PUD: hemorrhage (הנפוץ ביותר), perforation (חירום כירורגי, free air), obstruction (stricture/edema במוצא קיבה). צהבת/ascites/encephalopathy קשורים ל-liver disease. fistulas/strictures אופייניים ל-Crohn. toxic megacolon ל-UC חמור."
@@ -173,12 +173,12 @@
     "category": "פיזיולוגיה והורמונים",
     "question": "מהם תפקידי HCl (חומצת קיבה)?",
     "options": [
-      "ספיגת B12 ישירות ב-antrum ללא intrinsic factor",
-      "הפרשת bile מ-hepatocytes וכיווץ gallbladder",
       "ניטרול salivary amylase, הפעלת pepsinogen→pepsin, חיסול patogenים",
-      "ספיגת מים ואלקטרוליטים עיקרית ב-stomach"
+      "הפרשת bile מכיס המרה וספיגת B12 עם intrinsic factor",
+      "עיכול מלא של שומנים עם pancreatic lipase בקיבה",
+      "ספיגת גלוקוז דרך SGLT1 ב-villi של הקיבה"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "HCl (pH 1.5–3.5): (1) ניטרול salivary amylase; (2) המרת pepsinogen ל-pepsin לעיכול חלבון; (3) bactericidal effect; (4) יצירת סביבה חומצית לעיכול. B12 נספג ב-terminal ileum עם intrinsic factor. bile מיוצר בכבד. ספיגת מים עיקרית במעי הגס."
   },
   {
@@ -187,9 +187,9 @@
     "question": "מהם 3 זוגות בלוטות הרוק (salivary glands)?",
     "options": [
       "parotid (תת-אוזנית), submandibular (תת-לסתית), sublingual (תת-לשונית)",
-      "parotid בלבד – כל שאר הרוק מגיע מ-gastric glands",
-      "Brunner glands, Paneth cells ו-hepatic acini",
-      "hepatic, pancreatic ו-gastric exocrine glands"
+      "Brunner glands ב-duodenum, Paneth cells ב-crypts, hepatic acini בכבד",
+      "goblet cells בלבד בכל בלוטות הרוק ללא acinar cells",
+      "gastric glands בפה – HCl ו-pepsinogen מפרישים בלוטות הרוק"
     ],
     "correctIndex": 0,
     "explanation": "3 זוגות בלוטות רוק: parotid (serous, עמילאז), submandibular (mixed), sublingual (mucous). רוק מכיל amylase, mucin, lysozyme. Brunner glands ב-duodenum; hepatic acini בכבד; Paneth בקריפטות מעי דק. כבד/לבלב/קיבה אינם בלוטות רוק."
@@ -199,10 +199,10 @@
     "category": "פיזיולוגיה והורמונים",
     "question": "מהם תפקידי המעי הגס (large intestine)?",
     "options": [
-      "ספיגת B12 עם intrinsic factor; enterohepatic circulation של bile acids",
+      "ספיגת B12 עם intrinsic factor; enterohepatic circulation של bile acids ב-terminal ileum",
       "ספיגת מים ואלקטרוליטים, הפרשת mucus, יצירת צואה, סינתזת ויטמינים (K, B) ע\"י microbiota",
-      "הפרשת bile ו-pancreatic enzymes; ניטרול חומצה קיבתית – כמו ב-duodenum",
-      "עיכול חלבונים וספיגת amino acids – תפקיד עיקרי כמו ב-jejunum"
+      "הפרשת bile ו-pancreatic enzymes; ניטרול חומצה קיבתית – תפקיד duodenum ולא המעי הגס",
+      "עיכול חלבונים וספיגת amino acids – תפקיד עיקרי של jejunum ו-ileum, לא המעי הגס"
     ],
     "correctIndex": 1,
     "explanation": "מעי גס (~1.5 מ'): ספיגת מים/NaCl; הפרשת mucus; יצור feces; bacterial synthesis של ויטמין K ו-B. אין עיכול/ספיגת נוטריינטים משמעותית (נעשה במעי דק). bile/pancreatic enzymes פועלים ב-duodenum. B12 נספג ב-terminal ileum."
@@ -212,12 +212,12 @@
     "category": "פיזיולוגיה והורמונים",
     "question": "מהו תפקיד ה-mesentery במעי הדק?",
     "options": [
-      "שכבת אפיתל עם microvilli לספיגת נוטריינטים",
       "חיבור המעי לדופן הבטן, מעבר כלי דם/לימפה/עצבים, תמיכה מבנית",
-      "בלוטות הפרשה של digestive enzymes ל-lumen",
-      "יצירת bile salts ו-enterohepatic circulation"
+      "שכבת אפיתל עם microvilli לספיגת נוטריינטים – תפקיד enterocytes",
+      "בלוטות הפרשה של digestive enzymes ל-lumen – כמו Brunner glands",
+      "יצירת bile salts ו-enterohepatic circulation – תפקיד כבד ב-mesentery"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "mesentery – קפל peritoneal כפול המחבר jejunum/ileum ל-posterior abdominal wall; מכיל superior mesenteric vessels, lymphatics, nerves; מאפשר תנועה מבוקרת ומונע volvulus. אפיתל עם microvilli על villi. enzymes מופרשים מ-pancreas. bile בכבד."
   },
   {
@@ -226,9 +226,9 @@
     "question": "מהו תפקיד sphincter of Oddi?",
     "options": [
       "ויסות זרימת bile ו-pancreatic juice ל-duodenum; מניעת reflux לצינורות",
-      "שליטה ביציאת צואה מ-rectum במהלך defecation",
-      "פתיחת LES במנוחה לאפשר gastric emptying",
-      "הפרשת gastrin מ-G cells באנטרום"
+      "הפרשת gastrin מ-G cells והגברת HCl בגוף ואנטרום הקיבה",
+      "ספיגת B12 ב-terminal ileum עם intrinsic factor מ-parietal cells",
+      "עיכול מכני של פחמימות עם salivary amylase בפה לפני הגעה ל-duodenum"
     ],
     "correctIndex": 0,
     "explanation": "sphincter of Oddi (hepatopancreatic sphincter) ב-major duodenal papilla שולט בזרימת bile ו-pancreatic secretions ל-duodenum, מונע reflux. פגיעה/spasm/post-ERCP → pancreatitis. internal anal sphincter ל-defecation. LES נפרד. gastrin מ-G cells."
@@ -290,10 +290,10 @@
     "category": "כבד / לבלב / מערכת מרה",
     "question": "מהי הקליניקה של hepatitis?",
     "options": [
-      "שלשול דמי, urgency, tenesmus ו-bloating כסימנים גסטרואינטסטינליים מובילים",
-      "כאב RUQ, Murphy sign ו-leukocytosis – תמונה קלאסית של viral hepatitis",
+      "שלשול דמי, urgency, tenesmus ו-bloating – תמונה קלאסית של acute viral hepatitis",
+      "כאב RUQ, Murphy sign ו-leukocytosis – תמונה קלאסית של HAV עם IgM anti-HAV",
       "עייפות, anorexia, אי נוחות RUQ, pruritus, jaundice; fulminant: coagulopathy ו-encephalopathy",
-      "heartburn, regurgitation ו-dysphagia לנוזלים – תסמינים מובילים של hepatitis"
+      "heartburn, regurgitation ו-dysphagia לנוזלים – תסמינים מובילים של viral hepatitis"
     ],
     "correctIndex": 2,
     "explanation": "hepatitis: לעיתים אסימפטומטית (elevated LFTs); fatigue, anorexia, nausea, RUQ discomfort, pruritus (cholestasis), jaundice, dark urine. Fulminant hepatic failure: coagulopathy (INR↑), encephalopathy. heartburn=GERD; bloody diarrhea=IBD/CRC; RLQ=cholecystitis."
@@ -303,12 +303,12 @@
     "category": "כבד / לבלב / מערכת מרה",
     "question": "מהם סימני portal hypertension?",
     "options": [
-      "heartburn, regurgitation ו-dysphagia כסימנים מובילים",
       "esophageal/gastric varices, splenomegaly, ascites, caput medusae, encephalopathy",
-      "steatorrhea, diabetes ו-calcifications לבלב בלבד",
-      "bloody diarrhea, pseudopolyps ו-crypt abscesses"
+      "heartburn, regurgitation ו-dysphagia לנוזלים – סימני portal hypertension",
+      "כאב RLQ, RLQ tenderness ו-anorexia עם leukocytosis – סימני portal HTN",
+      "צהבת בלבד ללא ascites, varices, splenomegaly או שינויי hemodynamics"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "portal hypertension (בעיקר cirrhosis): esophageal/gastric varices (דימום קטלני), splenomegaly, ascites, caput medusae, hemorrhoids. hepatic encephalopathy מ-portosystemic shunting. heartburn=GERD; steatorrhea=chronic pancreatitis/malabsorption; bloody diarrhea=UC."
   },
   {
@@ -329,10 +329,10 @@
     "category": "כבד / לבלב / מערכת מרה",
     "question": "מהם סיבוכי liver failure / decompensated cirrhosis?",
     "options": [
-      "jaundice, coagulopathy, hypoalbuminemia/ascites, SBP, hepatic encephalopathy, gynecomastia",
-      "peptic ulcer bleeding, perforation ו-gastric outlet obstruction",
-      "toxic megacolon, fulminant UC ו-pouchitis",
-      "achalasia, bird-beak sign ו-failed LES relaxation"
+      "jaundice, coagulopathy, hypoalbuminemia/ascites, SBP, hepatic encephalopathy",
+      "heartburn ו-regurgitation כתסמינים מובילים של decompensated cirrhosis",
+      "bloody diarrhea, urgency ו-tenesmus כסימנים עיקריים של liver failure",
+      "dysphagia לנוזלים ו-megaesophagus ב-barium – סימן עיקרי של cirrhosis"
     ],
     "correctIndex": 0,
     "explanation": "decompensated cirrhosis: jaundice; impaired synthesis (albumin↓, clotting factors↓); ascites (hypoalbuminemia + portal HTN); SBP; hepatic encephalopathy (ammonia, asterixis); hormonal (gynecomastia, spider angiomata). PUD, toxic megacolon, achalasia – מחלות נפרדות."
@@ -355,12 +355,12 @@
     "category": "כבד / לבלב / מערכת מרה",
     "question": "מהם קריטריוני האבחנה ל-acute pancreatitis?",
     "options": [
-      "חום בלבד או leukocytosis כקריטריון יחיד",
       "2 מתוך 3: כאב תואם, lipase/amylase ≥3× ULN, imaging תומך",
-      "biopsy לבלב חובה לאבחנה בכל מקרה",
-      "צהבת ו-Charcot triad כקריטריונים היחידים"
+      "כאב אפיגסטרי בלבד ללא lipase או imaging – מספיק לאבחנה",
+      "lipase תקין תמיד שולל pancreatitis גם עם כאב חזק",
+      "CT בלבד ללא כאב או אנזימים – קריטריון יחיד לאבחנה"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "acute pancreatitis – 2/3: (1) epigastric pain radiating to back; (2) lipase או amylase ≥3× ULN (lipase יותר specific); (3) CT/MRI/US findings. גורמים: gallstones 40–70%, alcohol 25–35%. biopsy לא נדרש. Charcot triad = cholangitis."
   },
   {
@@ -368,9 +368,9 @@
     "category": "כבד / לבלב / מערכת מרה",
     "question": "מהי הקליניקה של severe acute pancreatitis?",
     "options": [
-      "כאב אפיגסטרי קל המוקל בשכיבה, ללא SIRS, necrosis או אי-ספיקת איברים",
-      "pruritus cholestatic, dark urine ו-Kayser-Fleischer rings כסימנים עיקריים",
-      "melena, hematemesis ו-esophageal varices כסיבוכים הדומיננטיים ב-pancreatitis חריפה",
+      "כאב אפיגסטרי קל המוקל בשכיבה – ללא SIRS, necrosis, organ failure או effusions",
+      "pruritus cholestatic, dark urine ו-neurologic signs – סימנים עיקריים של acute pancreatitis",
+      "melena, hematemesis ו-esophageal varices – סיבוכים הדומיננטיים ב-pancreatitis חריפה",
       "organ failure (renal, respiratory/ARDS), SIRS, ascites/pleural effusion; Cullen sign, Grey Turner sign"
     ],
     "correctIndex": 3,
@@ -382,9 +382,9 @@
     "question": "מהו הטיפול ב-acute pancreatitis?",
     "options": [
       "נוזלים IV, ניטור, משככי כאב, תזונה מוקדמת – ללא אנטיביוטיקה שגרתית",
-      "ניתוח מיידי בכל מקרה ללא ניסיון טיפול שמרני",
-      "צום מוחלט ממושך (שבועות) ככלל ראשון",
-      "אנטיביוטיקה פרופילקטית לכל המטופלים"
+      "אנטיביוטיקה מונעת לכל pancreatitis קלה עם lipase מורם בלבד",
+      "NPO מוחלט ל-14 יום ללא נוזלים IV או תזונה",
+      "כריתת לבלב דחופה בכל pancreatitis חריפה ללא conservative therapy"
     ],
     "correctIndex": 0,
     "explanation": "acute pancreatitis: aggressive IV fluids (Ringer's lactate), pain control (opioids), early enteral nutrition (low-fat) כשאפשר – מפחית complications. אנטיביוטיקה רק ב-infected necrosis/cholangitis. צום ממושך מזיק. surgery ל-necrosis infected או complications מכניים."
@@ -395,9 +395,9 @@
     "question": "מהי הקליניקה של chronic pancreatitis?",
     "options": [
       "epigastric pain מוחמר 15–30 דק' אחרי אכילה, steatorrhea, חוסר ADEK, diabetes mellitus מאוחר",
-      "heartburn ו-regurgitation בלבד – ללא steatorrhea או סוכרת פנקריאטית",
-      "bloody diarrhea, urgency, continuous colitis ו-pseudopolyps כסימנים מובילים",
-      "dysphagia לנוזלים, regurgitation ו-megaesophagus ב-barium swallow"
+      "heartburn ו-regurgitation בלבד – ללא steatorrhea, malabsorption או סוכרת פנקריאטית",
+      "bloody diarrhea, urgency, continuous colitis ו-pseudopolyps – תמונה של chronic pancreatitis",
+      "dysphagia לנוזלים, regurgitation ו-megaesophagus – תמונה של exocrine pancreatic insufficiency"
     ],
     "correctIndex": 0,
     "explanation": "chronic pancreatitis (alcohol שכיח): postprandial epigastric pain → back; exocrine insufficiency (steatorrhea, ADEK deficiency); endocrine failure (pancreatic diabetes). CT: calcifications, ductal dilation. GERD, UC, achalasia – מצבים שונים."
@@ -407,12 +407,12 @@
     "category": "IBD",
     "question": "מהם 3 עמודי התווך של IBD?",
     "options": [
-      "זיהומית, חדה וניתנת לריפוי מלא ללא התלקחויות",
       "כרונית והתקפתית (relapsing-remitting), immune-mediated, idiopathic",
-      "מוגבלת ל-colon בלבד ללא מעורבות מערכתית",
-      "גנטית בלבד ללא מעורבות חיסונית"
+      "חריפה בלבד ללא remission; לא immune-mediated",
+      "מזוהה רק בילדים; תמיד מוגבלת ל-rectum",
+      "מחלה זיהומית בלבד – מטופלת באנטיביוטיקה ללא immunomodulators"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "IBD מוגדרת ב: (1) כרונית והתקפתית – flares ו-remission; (2) immune-mediated – תגובה dysregulated ל-microbiota; (3) idiopathic – גורם ראשוני לא ידוע. Crohn יכול לפגוע בכל GI tract. גנטיקה תורמת אך לא מסבירה לבד."
   },
   {
@@ -420,12 +420,12 @@
     "category": "IBD",
     "question": "מהו פרדוקס העישון ב-IBD?",
     "options": [
-      "עישון מגן מ-Crohn ו-UC באותה מידה",
-      "אין קשר בין עישון ל-IBD בכלל",
-      "עישון מגן מ-Crohn ומגביר סיכון ל-UC",
-      "עישון מעלה סיכון ל-Crohn; עשוי להגן ב-UC (החמרה אפשרית בהפסקה)"
+      "עישון מעלה סיכון ל-Crohn; עשוי להגן ב-UC (החמרה אפשרית בהפסקה)",
+      "עישון מפחית סיכון ל-Crohn ו-UC באותה מידה – אין פרדוקס",
+      "עישון קשור רק ל-CRC ו-pancreatic cancer – לא ל-IBD",
+      "עישון מגן מפני Crohn ומחמיר UC תמיד – ללא פרדוקס קליני"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "explanation": "smoking paradox: ב-Crohn עישון מעלה סיכון, מחמיר מחלה ומגביר צורך בניתוחים. ב-UC עישון נראה protective – הפסקה עלולה להחמיר. לעולם לא ממליצים לעשן; חשוב לבחינות וליעוץ גמילה."
   },
   {
@@ -446,12 +446,12 @@
     "category": "IBD",
     "question": "מהם מאפיינים היסטולוגיים של UC לעומת Crohn?",
     "options": [
-      "זהים לחלוטין – אין הבדל היסטולוגי",
-      "UC: transmural + non-caseating granulomas; Crohn: mucosal בלבד + crypt abscesses",
-      "UC: mucosa/submucosa, רציף, crypt abscesses; Crohn: transmural, skip lesions, non-caseating granulomas",
-      "שניהם: רק superficial erosion ללא crypt changes"
+      "UC: mucosa/submucosa, רציף, crypt abscesses; Crohn: transmural, skip lesions, granulomas",
+      "UC: transmural עם granulomas; Crohn: רירית בלבד רציפה ללא skip lesions או fistulas",
+      "שניהם מוגבלים לרירית בלבד ללא מעורבות submucosa, muscularis או serosa",
+      "Crohn תמיד ב-colon; UC תמיד במעי דק בלבד – אין overlap אנטומי או היסטולוגי"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "UC: inflammation מוגבל ל-mucosa/submucosa, continuous מ-rectum, crypt abscesses, pseudopolyps, ללא granulomas. Crohn: transmural, skip lesions, non-caseating granulomas (לא pathognomonic), fissures, fistulas. Paneth metaplasia ב-Crohn terminal ileum."
   },
   {
@@ -498,12 +498,12 @@
     "category": "סרטן מעי גס",
     "question": "מהו Amsterdam criteria ל-Lynch syndrome (HNPCC)?",
     "options": [
-      "polyp אחד ב-colonoscopy כקריטריון יחיד",
-      "רק גיל מעל 70 עם CRC בודד",
       "≥3 קרובי משפחה עם סרטן קשור, ≥2 דורות, ≥1 לפני גיל 50",
-      "רק CRC ללא סרטנים אקסטרא-קוליים"
+      "polyp אחד ב-colonoscopy כקריטריון יחיד ל-Lynch – ללא דורות או גיל",
+      "רק גיל מעל 70 עם CRC בודד – מספיק לאבחנת Lynch syndrome",
+      "רק CRC ללא סרטנים אקסטרא-קוליים (רחם, שחלות, לבלב) – Amsterdam"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Amsterdam II: ≥3 relatives עם Lynch-associated cancer (CRC, endometrial, ovarian, gastric, pancreatic, brain, ureter/renal pelvis); ≥1 FDR; ≥2 generations; ≥1 diagnosed <50 years. Lynch = MMR mutations (MLH1, MSH2, MSH6, PMS2). polyp בודד לא מספיק."
   },
   {
@@ -513,8 +513,8 @@
     "options": [
       "ימין: לרוב אסימפטומטי, iron deficiency anemia; שמאל: שינוי bowel habits, hematochezia, narrowing",
       "ימין: תמיד hematochezia גלוי; שמאל: תמיד אנמיה מחוסר ברזל בלבד ללא שינוי בצואה",
-      "ימין: obstruction מוקדם; שמאל: לרוב אסימפטומטי עם anemia occult בלבד",
-      "אין הבדל קליני – כל הגידולים מציגים hematochezia גלוי ו-obstruction מוקדם"
+      "ימין: obstruction מוקדם תמיד; שמאל: לרוב אסימפטומטי עם occult anemia בלבד",
+      "אין הבדל קליני – כל הגידולים מציגים hematochezia גלוי ו-obstruction מוקדם באותה מידה"
     ],
     "correctIndex": 0,
     "explanation": "right-sided (cecum, ascending): lumen רחב, bleeding occult → iron deficiency anemia, אסימפטומטי מוקדם. left-sided (sigmoid, rectum): lumen צר, change in caliber/frequency, visible hematochezia, obstruction. חשוב לסקר ולא להניח תסמינים אחידים."
@@ -524,10 +524,10 @@
     "category": "אנדוסקופיה",
     "question": "מהן אינדיקציות ל-EGD (esophagogastroduodenoscopy)?",
     "options": [
-      "כאב RUQ ו-Murphy sign – אינדיקציה עיקרית ל-EGD",
+      "כאב RUQ ו-Murphy sign – אינדיקציה ל-US ולא ל-EGD כבדיקה ראשונה",
       "צהבת cholestatic בלבד ללא תסמינים עליונים – אינדיקציה ל-EGD",
       "anemia, dysphagia, upper GI bleeding, epigastric pain, weight loss, chronic vomiting",
-      "סקר CRC ב-average risk ללא תסמינים – אינדיקציה עיקרית ל-EGD"
+      "סקר CRC ב-average risk ללא תסמינים – אינדיקציה עיקרית ל-EGD במקום colonoscopy"
     ],
     "correctIndex": 2,
     "explanation": "EGD: iron deficiency anemia, dysphagia/odynophagia, UGIB (hematemesis, melena), epigastric pain, weight loss, chronic nausea/vomiting, Barrett surveillance. מאפשרת biopsy, hemostasis, dilatation. CRC screening = colonoscopy. RLQ pain = cholecystitis workup."
@@ -538,9 +538,9 @@
     "question": "מהם סיבוכי colonoscopy?",
     "options": [
       "perforation, דימום post-polypectomy, כוויה, הפרעות אלקטרוליטים מה-prep",
-      "hepatic encephalopathy ו-asterixis",
-      "post-ERCP pancreatitis בכל colonoscopy",
-      "אין סיבוכים משמעותיים – פרוצדורה ללא סיכון"
+      "תמיד ללא סיכונים – בדיקה בטוחה לחלוטין גם ללא bowel prep או INR",
+      "רק כאב בטן קל חולף ללא דימום, perforation או הפרעות אלקטרוליטים",
+      "סיכון יחיד: אלרגיה ל-latex של הצוות – ללא דימום או perforation אפשריים"
     ],
     "correctIndex": 0,
     "explanation": "colonoscopy complications: perforation (sigmoid, cecum – higher risk); bleeding post-polypectomy; deep thermal injury; cardiovascular events; prep-related dehydration/hypokalemia. encephalopathy=cirrhosis. post-ERCP pancreatitis=ERCP specific. סיכון נמוך אך קיים."
@@ -563,10 +563,10 @@
     "category": "אנדוסקופיה",
     "question": "מהו EUS (endoscopic ultrasound) ומתי משתמשים בו?",
     "options": [
-      "בדיקת דם ל-amylase/lipase – חלופה ל-EUS ב-staging של pancreatic cancer",
+      "בדיקת דם ל-amylase/lipase – חלופה ל-EUS ב-T/N staging של pancreatic cancer",
       "אנדוסקופיה + ultrasound – staging גידולים, אבנים, FNA/FNB; רגיש ל-pancreas ו-bile ducts",
-      "אנדוסקופיה של הוושט בלבד – ללא יכולת הדמיה של לבלב, כבד או lymph nodes",
-      "סקר CRC חלופי ל-colonoscopy/FIT – ללא יכולת FNA או T/N staging"
+      "אנדוסקופיה של הוושט בלבד – ללא יכולת הדמיה של לבלב, כבד, lymph nodes או FNA",
+      "סקר CRC חלופי ל-colonoscopy/FIT – ללא יכולת FNA, staging או הדמיית bile ducts"
     ],
     "correctIndex": 1,
     "explanation": "EUS: high-resolution ultrasound דרך endoscope – T/N staging (pancreatic, esophageal, rectal cancer), characterization pancreatic lesions, bile duct stones, EUS-guided FNA/FNB של mass/lymph nodes. לא בדיקת דם. CRC screening = colonoscopy/FIT."
@@ -577,9 +577,9 @@
     "question": "מהי תסמונת FAP לפי הסיכום?",
     "options": [
       "מחלה גנטית AD; מאות פוליפים מגיל 10-12; כמעט 100% יפתחו CRC עד 40 ללא מניעה",
-      "Lynch עם MMR mutation – פוליפים מעטים",
-      "Peutz-Jeghers עם כתמי פיגמנטציה בפה",
-      "average-risk polyp בודד בגיל 60"
+      "Lynch – MMR mutation; פוליפים מעטים; סרטן מעי גס בגיל 40-60; colonoscopy מגיל 20",
+      "Peutz-Jeghers – כתמי פיגמנטציה בפה + פוליפים hamartomatous לאורך GI",
+      "average-risk polyp בודד sporadic בגיל 60 – ללא APC mutation או סיכון גנטי"
     ],
     "correctIndex": 0,
     "explanation": "בסיכום: FAP – APC mutation; פוליפים רבים מגיל 10-12; כמעט 100% CRC עד 40; מניעה: prophylactic colectomy; colonoscopy מגיל 10-12 כל שנתיים."
@@ -590,9 +590,9 @@
     "question": "מהו ASCD (Acute Severe UC) לפי הסיכום?",
     "options": [
       "מצב חירום – אשפוז; יום 1 IV steroids; ימים 3-5 הערכה; rescue anti-TNF אם אין תגובה",
-      "PPI PO בלבד ושחרור מיידי",
-      "colectomy מיידית ביום 1 ללא סטרואידים",
-      "antibiotics PO בלבד ללא סטרואידים"
+      "PPI PO בלבד ושחרור מיידי ביום – מתאים ל-GERD קל; לא ל-ASUC עם ≥6 bowel movements/יום ודם",
+      "colectomy מיידית ביום 1 ללא IV steroids – ללא הערכת תגובה days 3-5 וללא rescue anti-TNF",
+      "antibiotics PO בלבד (cipro/metronidazole) ללא סטרואידים IV – ל-SBP; לא ל-ASUC חמור"
     ],
     "correctIndex": 0,
     "explanation": "בסיכום ASCD: אשפוז מיידי; יום 1 IV steroids; ימים 3-5 הערכה (Truelove/Lichtiger); אם כשל – anti-TNF rescue; colectomy אם נכשל."
@@ -603,9 +603,9 @@
     "question": "מהם תפקידי הכבד?",
     "options": [
       "מטבוליזם, bile, detoxification, חלבונים, אגירה (glycogen, ADEK), חיסון (Kupffer)",
-      "רק ספיגת נוטריינטים – כמו enterocytes במעי דק עם villi ו-microvilli",
-      "רק ייצור bile – ללא מטבוליזם, detoxification או סינתזת חלבונים",
-      "רק הפרשת insulin – תפקיד endocrine בלעדי ללא תפקידי parenchyma"
+      "ספיגת נוטריינטים – כמו enterocytes במעי דק עם villi ו-microvilli",
+      "ייצור bile בלבד – ללא מטבוליזם, detoxification או סינתזת חלבונים",
+      "הפרשת insulin בלבד – תפקיד endocrine בלעדי ללא parenchymal function"
     ],
     "correctIndex": 0,
     "explanation": "תפקידי כבד: carbohydrate/lipid/protein metabolism; bile acid synthesis; detoxification (drugs, ammonia→urea); synthesis (albumin, clotting factors); storage (glycogen, vitamins ADEK, B12, iron, copper); immune (Kupffer cells, IgA transport). insulin מ-pancreas. ספיגה במעי."
@@ -615,12 +615,12 @@
     "category": "שונות",
     "question": "מהי Wilson disease?",
     "options": [
-      "הצטברות ברזל תורשתית (hemochromatosis) → cirrhosis",
-      "מחלת הצטברות נחושת אוטוזומלית רצסיבית – cirrhosis, neuro, סימנים נוירולוגיים rings",
-      "חוסר נחושת תזונתי – anemia ו-neuropathy",
-      "הפטיטיס ויראלית כרונית מ-HBV"
+      "מחלת הצטברות נחושת אוטוזומלית רצסיבית – cirrhosis, neuro, סימנים נוירולוגיים",
+      "הצטברות ברזל – ferritin גבוה, transferrin saturation מוגבר, phlebotomy",
+      "NAFLD – steatosis ללא אלכוהול; weight loss כטיפול עיקרי",
+      "acute hepatitis A – IgM anti-HAV; מחלים לרוב ללא antiviral"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Wilson disease (ATP7B mutation): impaired copper excretion → accumulation בכבד (cirrhosis), basal ganglia (movement disorder), cornea (סימנים נוירולוגיים rings). טיפול: chelation (penicillamine), zinc. hemochromatosis=iron. חוסר copper נדיר. HBV=viral hepatitis."
   },
   {

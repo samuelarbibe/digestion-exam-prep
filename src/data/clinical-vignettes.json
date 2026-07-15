@@ -4,12 +4,12 @@
     "category": "מקרה קליני",
     "question": "מטופל בן 52, מעשן, מתלונן על צריבה אחרי ארוחות ושיפור בשכיבה. אין dysphagia, איבוד משקל או דימום. מה הצעד הראשוני המתאים?",
     "options": [
-      "EGD דחופה בכל מקרה של pyrosis ללא קשר לגיל או תסמינים",
-      "PPI יומי + שינויי אורח חיים; EGD אם אין שיפור או alarm symptoms",
-      "אנטיביוטיקה ל-H. pylori ללא בדיקה או אבחנה מוקדמת",
-      "מעקב בלבד ללא טיפול – GERD נפתרת תמיד ללא התערבות"
+      "PPI במינון מלא + שינויי אורח חיים; EGD אם alarm symptoms",
+      "antibiotics ל-H. pylori בלבד ללא PPI או lifestyle",
+      "colectomy דחופה לכל מטופל עם heartburn",
+      "colonoscopy ראשונה ללא EGD ב-GERD עם pyrosis"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "GERD קלאסית: heartburn אחרי אכילה, שיפור בשכיבה (מעבר חומצה). ללא alarm symptoms (dysphagia, weight loss, bleeding, anemia, age >55 new symptoms): טיפול empiric ב-PPI + lifestyle. EGD אם כשל טיפול, alarm symptoms, או Barrett surveillance. לא מטפלים ב-H. pylori ללא אבחנה."
   },
   {
@@ -70,9 +70,9 @@
     "question": "אישה בת 40, כאב חד ב-RUQ 20 דקות אחרי ארוחה שמנה, נעלם תוך שעה. אין חום. מה האבחנה?",
     "options": [
       "Biliary colic – חסימה זמנית של מוצא כיס המרה",
-      "Acute cholecystitis עם חום ו-Murphy sign",
-      "Acute pancreatitis עם lipase גבוה וכאב לגב",
-      "GERD עם heartburn אחרי ארוחה"
+      "Acute cholecystitis – כאב ממושך >4-6 שעות, חום, Murphy sign חיובי",
+      "Acute pancreatitis – lipase גבוה, כאב קורן לגב, amylase מורם",
+      "GERD – heartburn אחרי ארוחה ללא כאב RUQ חד וחולף"
     ],
     "correctIndex": 0,
     "explanation": "בסיכום: biliary colic – כאב RUQ אחרי ארוחה שמנה, 15-30 דק', חולף כשהאבן זזה. cholecystitis – כאב ממושך >4-6 שעות, חום, Murphy. pancreatitis – lipase, כאב לגב."
@@ -122,9 +122,9 @@
     "question": "אישה בת 48, כאב RUQ אחרי ארוחה שמנה, חום 38.5°C, Murphy sign חיובי. WBC 13,000. מה הבדיקה והטיפול?",
     "options": [
       "abdominal ultrasound – cholelithiasis/cholecystitis; antibiotics + cholecystectomy",
-      "EGD – cholecystitis מאובחנת תמיד באנדוסקופיה",
-      "MRCP בלבד ללא אולטרסאונד – הבדיקה הראשונה ב-RUQ pain",
-      "observation בלבד – כאב RUQ אחרי ארוחה שמנה תמיד עובר"
+      "EGD – cholecystitis מאובחנת תמיד באנדוסקופיה עליונה; Murphy sign לא רלוונטי",
+      "MRCP בלבד ללא US – הבדיקה הראשונה ב-RUQ pain עם חום ו-leukocytosis",
+      "observation בלבד – כאב RUQ אחרי ארוחה שמנה עם חום תמיד עובר ללא טיפול"
     ],
     "correctIndex": 0,
     "explanation": "acute cholecystitis: RUQ pain, fever, Murphy+, leukocytosis, post-fatty meal. US ראשון: gallstones, wall thickening, pericholecystic fluid. טיפול: NPO, IV fluids, antibiotics, cholecystectomy (early vs delayed). MRCP/ERCP אם חשד ל-choledocholithiasis (jaundice, dilated ducts)."
@@ -134,12 +134,12 @@
     "category": "מקרה קליני",
     "question": "מטופל בן 62, צהבת, כאב RUQ, חום 39°C, confusion. לחץ דם 90/55. מה האבחנה והטיפול הדחוף?",
     "options": [
-      "acute hepatitis A – מנוחה ותזונה בלבד",
       "acute cholangitis (Charcot triad) – IV antibiotics + biliary drainage (ERCP)",
-      "GERD – PPI ושחרור",
-      "pancreatic cancer – כימותרפיה מיידית ללא drainage"
+      "biliary colic – כאב חולף ללא חום; ללא אנטיביוטיקה או biliary drainage",
+      "acute cholecystitis – US + cholecystectomy; ללא Charcot triad או jaundice",
+      "acute pancreatitis – lipase גבוה; NPO ונוזלים IV ללא ERCP drainage"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Charcot triad: fever, jaundice, RUQ pain = acute cholangitis (obstruction + infection). Reynolds pentad מוסיף hypotension + confusion (severe). טיפול: IV antibiotics (pip-tazo/cephalosporin+metronidazole) + urgent biliary decompression (ERCP). לא לדחות drainage."
   },
   {
@@ -187,9 +187,9 @@
     "question": "אישה בת 50, BMI 35, diabetes, ALT 85, US: steatosis. ללא אלכוהול משמעותי. מה האבחנה הסבירה?",
     "options": [
       "NAFLD/NASH – שומן בכבד קשור למטבוליזם; fibrosis assessment",
-      "alcoholic hepatitis – תמיד עם ALT נורמלי",
-      "hemochromatosis – אבחנה ראשונה ב-US steatosis",
-      "acute viral hepatitis – תמיד עם ALT <100"
+      "alcoholic hepatitis – תמיד עם ALT נורמלי וללא steatosis ב-US",
+      "hemochromatosis – אבחנה ראשונה ב-US steatosis ללא ferritin או saturation",
+      "acute viral hepatitis – תמיד עם ALT <100 וללא קשר ל-obesity/diabetes"
     ],
     "correctIndex": 0,
     "explanation": "NAFLD: steatosis ללא אלכוהול מוגזם, קשור obesity/diabetes/metabolic syndrome. NASH = inflammation + possible fibrosis. הערכה קלינית ו-LFTs, לעיתים biopsy. טיפול: weight loss, diabetes control. alcoholic liver: history; hemochromatosis: ferritin, transferrin saturation."
@@ -199,12 +199,12 @@
     "category": "מקרה קליני",
     "question": "גבר בן 68, עייפות, מעילים חדשים. Hb 9.2, MCV 72, ferritin נמוך. אין תסמיני כאב בטן או שינוי בצואה. מה הצעד הבא?",
     "options": [
-      "ברזל PO בלבד – אין צורך בחיפוש מקור דימום",
       "colonoscopy – iron deficiency anemia בגיל >50 דורשת שלילת CRC/malignancy",
-      "B12 injection – MCV נמוך מצביע תמיד על B12",
-      "אולטרסאונד כבד בלבד – מספיק ב-anemia"
+      "ברזל PO בלבד – אין צורך בחיפוש מקור דימום במבוגר עם אנמיה מחוסר ברזל",
+      "B12 injection – MCV נמוך מצביע תמיד על B12 ללא בירור GI occult bleeding",
+      "אולטרסאונד כבד בלבד – מספיק לשלילת דימום GI occult ו-CRC במבוגר"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "iron deficiency anemia במבוגר: חובה לשלול GI blood loss (CRC שכיח, במיוחד right-sided occult). colonoscopy + often EGD (dual evaluation). right colon cancer: occult bleeding, anemia ללא hematochezia גלוי. treat iron + find source."
   },
   {
@@ -226,9 +226,9 @@
     "question": "מטופל בן 45, אביו ואחיו עם CRC לפני גיל 50. אין תסמינים. מה ההמלצה?",
     "options": [
       "colonoscopy מגיל 40 או 10 שנים לפני המקרה המוקדם ביותר במשפחה",
-      "סקר ממוצע מגיל 50 בלבד – משפחתיות לא משנה",
-      "FIT שנתי בלבד – מספיק ב-high-risk family history",
-      "אין צורך בסקר אם אסימפטומטי"
+      "סקר ממוצע מגיל 50 בלבד – משפחתיות עם CRC מוקדם לא משנה",
+      "FIT שנתי בלבד – מספיק ב-high-risk family history עם 2 קרובים עם CRC",
+      "אין צורך בסקר אם אסימפטומטי – גם עם first-degree relative CRC <50"
     ],
     "correctIndex": 0,
     "explanation": "משפחתיות: first-degree relative CRC <60 או ≥2 relatives → colonoscopy מוקדם (40 או 10 שנים לפני מקרה מוקדם). Lynch (Amsterdam): MMR testing. FAP: genetic testing + sigmoidoscopy מגיל 10-15. average risk: 45-50."
@@ -252,9 +252,9 @@
     "question": "אישה בת 28, כאב בטן ושלשול לסירוגין 6 חודשים. calprotectin בצואה תקין, בדיקות דם תקינות. מה האבחנה הסבירה לפי הסיכום?",
     "options": [
       "IBS – calprotectin שלילי מבדיל מ-IBD; אין דלקת אורגנית",
-      "Crohn disease – calprotectin תמיד גבוה",
-      "UC – bloody diarrhea חובה",
-      "CRC – שכיח בגיל 28 אסימפטומטית"
+      "Crohn – calprotectin תמיד גבוה; transmural inflammation",
+      "UC – bloody diarrhea חובה; calprotectin גבוה תמיד",
+      "CRC – שכיח בגיל 28 אסימפטומטי עם calprotectin תקין"
     ],
     "correctIndex": 0,
     "explanation": "בסיכום: calprotectin נמוך ב-IBS, גבוה ב-IBD. כאב כרוני + calprotectin תקין → IBS לאחר שלילת red flags. calprotectin ותסמינים לא מוזכרים."
@@ -265,9 +265,9 @@
     "question": "אישה בת 50, אנמיה, dysphagia, glossitis. אין דימום גלוי. מה הסינדром החשוד לפי הסיכום?",
     "options": [
       "Plummer-Vinson – אנמיה, web בוושט, dysphagia; סיכון לסרטן וושט",
-      "GERD עם heartburn בלבד",
-      "Achalasia עם bird-beak ב-barium",
-      "IBS עם calprotectin תקין"
+      "GERD – heartburn בלבד ללא אנמיה, web או glossitis",
+      "Achalasia – bird-beak ב-barium; dysphagia לנוזלים ומוצקים",
+      "IBS – calprotectin תקין; כאב בטן לסירוגין ללא אנמיה"
     ],
     "correctIndex": 0,
     "explanation": "בסיכום: Plummer-Vinson – אנמיה קשה ושינויים ברירית הוושט; גורם סיכון לסרטן וושט."
@@ -278,9 +278,9 @@
     "question": "מטופל עם melena יציב לאחר נוזלים. מה סדר הפעולות לפי הסיכום?",
     "options": [
       "ייצוב המודינמי, PPI IV במינון גבוה, גסטרוסקופיה דחופה תוך 12-24 שעות",
-      "colonoscopy ראשונה ללא אנדוסקופיה עליונה",
-      "אנטיביוטיקה ל-H. pylori לפני כל resuscitation",
-      "מעקב בלבד ללא אנדוסקופיה"
+      "colonoscopy ראשונה ללא אנדוסקופיה עליונה ב-melena – מקור עליון לא נבדק",
+      "אנטיביוטיקה ל-H. pylori לפני resuscitation, PPI ו-EGD דחופה",
+      "מעקב בלבד ללא אנדוסקופיה ב-melena יציב – PPI PO ללא EGD"
     ],
     "correctIndex": 0,
     "explanation": "בסיכום – דימום PUD: ייצוב המודינמי, PPI IV גבוה, גסטרוסקופיה דחופה 12-24 שע'. melena = דימום עליון. colonoscopy אם מקור תחתון."
@@ -304,9 +304,9 @@
     "question": "גבר בן 48, diabetes, כאבי מפרקים, צהבת קלה. ferritin 1,200, transferrin saturation 65%. מה האבחנה והטיפול?",
     "options": [
       "hereditary hemochromatosis – therapeutic phlebotomy",
-      "Wilson disease – penicillamine",
-      "acute hepatitis B – lamivudine",
-      "iron deficiency – ברזל PO"
+      "Wilson disease – copper chelation (penicillamine/trientine) + zinc",
+      "acute hepatitis B – lamivudine או entecavir כטיפול מיידי",
+      "iron deficiency – ברזל PO עם ferritin נמוך"
     ],
     "correctIndex": 0,
     "explanation": "hemochromatosis (HFE C282Y): iron overload – ferritin↑, transferrin saturation↑, liver cirrhosis, diabetes, arthropathy, bronze skin. טיפול: phlebotomy להורדת ferritin. Wilson: copper, young, neuro. iron deficiency: ferritin נמוך."
@@ -317,9 +317,9 @@
     "question": "אישה בת 32 עם UC, 8 bowel movements ביום עם דם, חום 38°C, Hb 9.5, ESR 55. מאושפזת. מה הטיפול הראשוני?",
     "options": [
       "IV corticosteroids (hydrocortisone/methylprednisolone) – ASUC protocol",
-      "PPI ו-5-ASA PO בלבד בשחרור מיידי ללא סטרואידים IV",
-      "appendectomy דחופה – UC חריף מטופל תמיד בניתוח ראשון",
-      "antibiotics PO בלבד ללא IV steroids או הערכה בימים 3–5"
+      "PPI PO בלבד ושחרור מיידי ללא סטרואידים IV או מעקב בימים 3-5",
+      "5-ASA enema בלבד ל-ASUC עם חום, tachycardia ו-≥6 bowel movements/יום",
+      "colectomy מיידית ביום 1 ללא ניסיון סטרואידים IV או rescue anti-TNF"
     ],
     "correctIndex": 0,
     "explanation": "ASUC (Truelove-Witts): ≥6 bloody stools/day + systemic toxicity (fever, tachycardia, anemia, ESR↑). טיפול: IV steroids; assess ימים 3-5; rescue infliximab/ciclosporin; colectomy אם כשל. 5-ASA לא מספיק ל-ASUC. surgery אם refractory."
@@ -343,9 +343,9 @@
     "question": "גבר בן 72, צהבת ללא כאב, ירידה במשקל 5 ק\"ג, stool בהיר. CA 19-9 מורם. מה הצעד הבא?",
     "options": [
       "abdominal CT (pancreatic protocol) – חשד ל-pancreatic head cancer",
-      "EGD בלבד – צהבת תמיד מ-PUD",
-      "observation – painless jaundice שכיח ושפוט",
-      "colonoscopy ראשונה – pancreatic cancer מאובחן שם"
+      "abdominal ultrasound בלבד – מספיק ל-staging של pancreatic head cancer",
+      "EGD – הבדיקה הראשונה לחשד לגידול לבלב עם jaundice obstructive",
+      "colonoscopy – אינדיקציה ראשונה ל-jaundice, weight loss ו-elevated bilirubin"
     ],
     "correctIndex": 0,
     "explanation": "painless obstructive jaundice + weight loss + pale stools + dark urine = pancreatic head cancer עד proven otherwise. CT pancreas protocol; ERCP/EUS ל-biopsy/staging. Courvoisier sign: palpable gallbladder + painless jaundice. cholangitis: pain + fever."
@@ -356,9 +356,9 @@
     "question": "מטופל עם UGIB, יציב. EGD: כיב ב-bulb עם דימום פעיל. מה הטיפול לפי הסיכום?",
     "options": [
       "גסטרוסקופיה דחופה לאבחון וטיפול (hemostasis) + PPI IV",
-      "PPI PO בלבד ללא endoscopy",
-      "colonoscopy דחופה בלבד",
-      "מעקב שבועי ללא התערבות"
+      "PPI PO בלבד ללא endoscopy בדימום פעיל מכיב ב-duodenal bulb",
+      "colonoscopy דחופה בלבד ללא EGD ב-UGIB עם דימום פעיל מכיב",
+      "מעקב שבועי ללא התערבות בדימום פעיל – PPI PO ללא hemostasis"
     ],
     "correctIndex": 0,
     "explanation": "בסיכום: דימום מפצעת – ייצוב, PPI IV, EGD דחופה לאבחון וטיפול (עצירת דימום)."
@@ -369,9 +369,9 @@
     "question": "אישה בת 55, אנמיה, dysphagia לנוזלים ומוצקים, glossitis. בדיקות: Hb 8, MCV 110, low reticulocytes. מה האבחנה?",
     "options": [
       "Plummer-Vinson syndrome – iron deficiency + esophageal web; rule out malignancy",
-      "achalasia – dysphagia לנוזלים ומוצקים; MCV בדרך כלל נורמלי",
-      "GERD erosive – heartburn בלבד; glossitis ו-anemia לא קשורים",
-      "acute viral hepatitis – macrocytic anemia ו-esophageal web נדירים"
+      "achalasia – dysphagia לנוזלים ומוצקים; MCV בדרך כלל נורמלי; bird-beak",
+      "GERD erosive – heartburn בלבד; glossitis ו-anemia לא קשורים ל-Plummer-Vinson",
+      "acute viral hepatitis – macrocytic anemia ו-esophageal web נדירים; IgM anti-HAV"
     ],
     "correctIndex": 0,
     "explanation": "Plummer-Vinson (Paterson-Kelly): iron deficiency anemia + esophageal web + dysphagia + glossitis/cheilosis. סיכון ל-squamous cell carcinoma של esophagus/hypopharynx. טיפול: iron supplementation; dilatation אם צריך; evaluate for GI malignancy."

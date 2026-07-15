@@ -8,9 +8,9 @@ BASE = Path(__file__).resolve().parent.parent / "src" / "data"
 MANUAL = {
     116: [
         'ספיגת מים ואלקטרוליטים, הפרשת mucus, יצירת צואה, סינתזת ויטמינים (K, B) ע"י microbiota',
-        "עיכול חלבונים וספיגת amino acids – תפקיד עיקרי כמו ב-jejunum",
-        "הפרשת bile ו-pancreatic enzymes; ניטרול חומצה קיבתית – כמו ב-duodenum",
-        "ספיגת B12 עם intrinsic factor; enterohepatic circulation של bile acids",
+        "עיכול חלבונים וספיגת amino acids – תפקיד עיקרי של jejunum ו-ileum, לא המעי הגס",
+        "הפרשת bile ו-pancreatic enzymes; ניטרול חומצה קיבתית – תפקיד duodenum ולא המעי הגס",
+        "ספיגת B12 עם intrinsic factor; enterohepatic circulation של bile acids ב-terminal ileum",
     ],
     119: [
         "duodenum: ערבוב enzymatic וניטרול חומצה; jejunum: ספיגה עיקרית; ileum: bile acids, B12, Peyer's patches",
@@ -38,9 +38,9 @@ MANUAL = {
     ],
     123: [
         "עייפות, anorexia, אי נוחות RUQ, pruritus, jaundice; fulminant: coagulopathy ו-encephalopathy",
-        "heartburn, regurgitation ו-dysphagia לנוזלים – תסמינים מובילים של hepatitis",
-        "שלשול דמי, urgency, tenesmus ו-bloating כסימנים גסטרואינטסטינליים מובילים",
-        "כאב RUQ, Murphy sign ו-leukocytosis – תמונה קלאסית של viral hepatitis",
+        "heartburn, regurgitation ו-dysphagia לנוזלים – תסמינים מובילים של viral hepatitis",
+        "שלשול דמי, urgency, tenesmus ו-bloating – תמונה קלאסית של acute viral hepatitis",
+        "כאב RUQ, Murphy sign ו-leukocytosis – תמונה קלאסית של HAV עם IgM anti-HAV",
     ],
     125: [
         "alcohol, NAFLD/NASH, HBV/HCV, מחלות דרכי מרה, hemochromatosis, Wilson",
@@ -50,15 +50,15 @@ MANUAL = {
     ],
     129: [
         "organ failure (renal, respiratory/ARDS), SIRS, ascites/pleural effusion; Cullen sign, Grey Turner sign",
-        "כאב אפיגסטרי קל המוקל בשכיבה, ללא SIRS, necrosis או אי-ספיקת איברים",
-        "melena, hematemesis ו-esophageal varices כסיבוכים הדומיננטיים ב-pancreatitis חריפה",
-        "pruritus cholestatic, dark urine ו-Kayser-Fleischer rings כסימנים עיקריים",
+        "כאב אפיגסטרי קל המוקל בשכיבה – ללא SIRS, necrosis, organ failure או effusions",
+        "melena, hematemesis ו-esophageal varices – סיבוכים הדומיננטיים ב-pancreatitis חריפה",
+        "pruritus cholestatic, dark urine ו-neurologic signs – סימנים עיקריים של acute pancreatitis",
     ],
     131: [
         "epigastric pain מוחמר 15–30 דק' אחרי אכילה, steatorrhea, חוסר ADEK, diabetes mellitus מאוחר",
-        "heartburn ו-regurgitation בלבד – ללא steatorrhea או סוכרת פנקריאטית",
-        "bloody diarrhea, urgency, continuous colitis ו-pseudopolyps כסימנים מובילים",
-        "dysphagia לנוזלים, regurgitation ו-megaesophagus ב-barium swallow",
+        "heartburn ו-regurgitation בלבד – ללא steatorrhea, malabsorption או סוכרת פנקריאטית",
+        "bloody diarrhea, urgency, continuous colitis ו-pseudopolyps – תמונה של chronic pancreatitis",
+        "dysphagia לנוזלים, regurgitation ו-megaesophagus – תמונה של exocrine pancreatic insufficiency",
     ],
     136: [
         "IV corticosteroids יום 1; הערכה ימים 3–5; rescue anti-TNF או colectomy אם אין תגובה",
@@ -68,15 +68,15 @@ MANUAL = {
     ],
     140: [
         "ימין: לרוב אסימפטומטי, iron deficiency anemia; שמאל: שינוי bowel habits, hematochezia, narrowing",
-        "אין הבדל קליני – כל הגידולים מציגים hematochezia גלוי ו-obstruction מוקדם",
+        "אין הבדל קליני – כל הגידולים מציגים hematochezia גלוי ו-obstruction מוקדם באותה מידה",
         "ימין: תמיד hematochezia גלוי; שמאל: תמיד אנמיה מחוסר ברזל בלבד ללא שינוי בצואה",
-        "ימין: obstruction מוקדם; שמאל: לרוב אסימפטומטי עם anemia occult בלבד",
+        "ימין: obstruction מוקדם תמיד; שמאל: לרוב אסימפטומטי עם occult anemia בלבד",
     ],
     141: [
         "anemia, dysphagia, upper GI bleeding, epigastric pain, weight loss, chronic vomiting",
-        "סקר CRC ב-average risk ללא תסמינים – אינדיקציה עיקרית ל-EGD",
+        "סקר CRC ב-average risk ללא תסמינים – אינדיקציה עיקרית ל-EGD במקום colonoscopy",
         "צהבת cholestatic בלבד ללא תסמינים עליונים – אינדיקציה ל-EGD",
-        "כאב RUQ ו-Murphy sign – אינדיקציה עיקרית ל-EGD",
+        "כאב RUQ ו-Murphy sign – אינדיקציה ל-US ולא ל-EGD כבדיקה ראשונה",
     ],
     143: [
         "ERCP: אבחון וטיפול (invasive, סיכון pancreatitis); MRCP: הדמיה לא פולשנית ללא טיפול",
@@ -86,9 +86,9 @@ MANUAL = {
     ],
     144: [
         "אנדוסקופיה + ultrasound – staging גידולים, אבנים, FNA/FNB; רגיש ל-pancreas ו-bile ducts",
-        "אנדוסקופיה של הוושט בלבד – ללא יכולת הדמיה של לבלב, כבד או lymph nodes",
-        "בדיקת דם ל-amylase/lipase – חלופה ל-EUS ב-staging של pancreatic cancer",
-        "סקר CRC חלופי ל-colonoscopy/FIT – ללא יכולת FNA או T/N staging",
+        "אנדוסקופיה של הוושט בלבד – ללא יכולת הדמיה של לבלב, כבד, lymph nodes או FNA",
+        "בדיקת דם ל-amylase/lipase – חלופה ל-EUS ב-T/N staging של pancreatic cancer",
+        "סקר CRC חלופי ל-colonoscopy/FIT – ללא יכולת FNA, staging או הדמיית bile ducts",
     ],
     149: [
         "α: glucagon; β: insulin; δ: somatostatin; PP: pancreatic polypeptide; ε: ghrelin",
@@ -129,7 +129,6 @@ def main() -> None:
         for q in batch:
             if q["id"] in MANUAL:
                 opts = MANUAL[q["id"]]
-                correct = opts[0]
                 q["options"] = opts
                 q["correctIndex"] = 0
                 shuffle_question(q)
@@ -144,7 +143,7 @@ def main() -> None:
             shuffle_question(q)
 
     ci = {i: 0 for i in range(4)}
-    longest = bias30 = 0
+    longest = bias30 = bias15 = 0
     for q in all_q:
         ci[q["correctIndex"]] += 1
         lens = [len(o) for o in q["options"]]
@@ -154,10 +153,13 @@ def main() -> None:
             longest += 1
         if cl > ol + 30:
             bias30 += 1
+        if cl > ol + 15:
+            bias15 += 1
 
     print("correctIndex:", ci)
     print("correct longest:", longest)
     print("correct >30 longer:", bias30)
+    print("correct >15 longer:", bias15)
 
     def ts(s: str) -> str:
         return json.dumps(s, ensure_ascii=False)
