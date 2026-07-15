@@ -1,0 +1,652 @@
+[
+  {
+    "id": 51,
+    "category": "כבד / לבלב / מערכת מרה",
+    "question": "מהם תפקידי הכבד העיקריים?",
+    "options": [
+      "הפרשת אינסולין ו-glucagon, ספיגת B12 וסינתזת intrinsic factor",
+      "מטבוליזם, detoxification, סינתזת bile וחלבונים (albumin, clotting factors)",
+      "פריסטלטיקה מעייתית, הפרשת gastrin וספיגת גלוקוז במעי הדק",
+      "אחסון glycogen בלבד, ללא תפקיד ב-bilirubin או בחלבוני דם"
+    ],
+    "correctIndex": 1,
+    "explanation": "תפקידי כבד: מטבוליזם (גלוקוז, lipids, חלבונים), detoxification, bile synthesis/secretion, protein synthesis (albumin, clotting factors), storage (glycogen, iron, B12). אינסולין מופרש מפנקרס; ספיגת B12 ב-ileum; gastrin מ-G cells."
+  },
+  {
+    "id": 52,
+    "category": "כבד / לבלב / מערכת מרה",
+    "question": "מהם גורמי הסיכון העיקריים ל-cirrhosis?",
+    "options": [
+      "GERD כרוני, hiatal hernia ושימוש קבוע ב-PPI ללא גורם מזיק אחר",
+      "צמחונות ממושכת, שתיית מים מרובה וחוסר חשיפה לאלכוהול",
+      "אלכוהול כרוני, NAFLD/NASH, viral hepatitis (B,C), hemochromatosis, Wilson",
+      "H. pylori בלבד, ללא קשר ל-viral hepatitis או מחלות מטבוליות כבד"
+    ],
+    "correctIndex": 2,
+    "explanation": "גורמי cirrhosis: אלכוהול כרוני, NAFLD/NASH, hepatitis B/C כרוני, hemochromatosis, Wilson disease, autoimmune hepatitis, מחלות דרכי מרה (biliary disease). GERD, PPI, צמחונות ומים אינם גורמי סיכון לשחמת."
+  },
+  {
+    "id": 53,
+    "category": "כבד / לבלב / מערכת מרה",
+    "question": "מהם סימני portal hypertension?",
+    "options": [
+      "heartburn, regurgitation ו-dysphagia לנוזלים בלבד",
+      "כאב RLQ, RLQ tenderness ו-anorexia עם עליית WBC",
+      "צהבת בלבד ללא ascites, varices או שינויי hemodynamics",
+      "ascites, esophageal/gastric varices, splenomegaly, caput medusae"
+    ],
+    "correctIndex": 3,
+    "explanation": "portal hypertension: ascites, esophageal/gastric varices, splenomegaly, caput medusae, hemorrhoids. צהבת יכולה להיות נלווית אך אינה סימן ייחודי. heartburn ו-RLQ pain אינם ספציפיים; cholecystitis שונה לחלוטין."
+  },
+  {
+    "id": 54,
+    "category": "כבד / לבלב / מערכת מרה",
+    "question": "מהו הגורם השכיח ביותר ל-acute pancreatitis?",
+    "options": [
+      "H. pylori, GERD ו-inflammatory bowel disease",
+      "gallstones (אבנים בכיס מרה) ואלכוהול",
+      "viral gastroenteritis בלבד ללא hypertriglyceridemia או ERCP",
+      "autoimmune gastritis ו-pernicious anemia עם חוסר B12"
+    ],
+    "correctIndex": 1,
+    "explanation": "גורמים שכיחים ל-acute pancreatitis: gallstones (הכי שכיח), אלכוהול, hypertriglyceridemia, ERCP, תרופות, trauma. H. pylori, GERD ו-IBD אינם גורמים עיקריים לדלקת לבלב חריפה."
+  },
+  {
+    "id": 55,
+    "category": "כבד / לבלב / מערכת מרה",
+    "question": "מהם התסמינים האופייניים ל-acute pancreatitis?",
+    "options": [
+      "heartburn retrosternal, regurgitation ותגובה מיידית ל-PPI",
+      "כאב epigastric קורן לגב, nausea/vomiting, lipase/amylase מוגברים",
+      "שלשול דמי, urgency ו-tenesmus עם דלקת רירית rectum",
+      "dysphagia לנוזלים ו-masses ב-RLQ עם fistulas פריאנליות"
+    ],
+    "correctIndex": 1,
+    "explanation": "acute pancreatitis: כאב epigastric חזק קורן לגב, nausea/vomiting, fever, lipase/amylase מוגברים. Cullen/Grey Turner signs בדימום. heartburn = GERD; שלשול דמי = UC; dysphagia + fistulas = Crohn."
+  },
+  {
+    "id": 56,
+    "category": "כבד / לבלב / מערכת מרה",
+    "question": "מהו acute cholecystitis?",
+    "options": [
+      "דלקת כבד ויראלית עם עליית transaminases ו-jaundice ממוקד",
+      "דלקת לבלב עם lipase מוגבר וכאב קורן לגב ללא Murphy sign",
+      "דלקת כיס מרה, לרוב מ-obstruction של cystic duct מאבן",
+      "reflux של תוכן קיבתי לוושט עם erosions ברירית distal esophagus"
+    ],
+    "correctIndex": 2,
+    "explanation": "acute cholecystitis: inflammation כיס מרה, בדרך כלל stone ב-cystic duct. כאב RUQ, Murphy sign, fever, leukocytosis. US: wall thickening, pericholecystic fluid. שונה מ-hepatitis, pancreatitis ו-GERD."
+  },
+  {
+    "id": 57,
+    "category": "כבד / לבלב / מערכת מרה",
+    "question": "מהו Charcot triad?",
+    "options": [
+      "חום, jaundice וכאב RUQ ב-acute cholangitis",
+      "חום, chest pain ו-dyspnea ב-pulmonary embolism",
+      "jaundice, ascites ו-hepatic encephalopathy ב-liver failure",
+      "כאב, vomiting ו-diarrhea ב-gastroenteritis לא ספציפי"
+    ],
+    "correctIndex": 0,
+    "explanation": "Charcot triad (acute cholangitis): fever, jaundice, RUQ pain. Reynolds pentad מוסיף hypotension ו-mental status change. ascites + encephalopathy = decompensated cirrhosis; chest pain triad לא קשור."
+  },
+  {
+    "id": 58,
+    "category": "כבד / לבלב / מערכת מרה",
+    "question": "מה מאפיין hepatitis B כרוני?",
+    "options": [
+      "HBsAg שלילי תמיד תוך 6 חודשים, ללא סיכון ל-cirrhosis או HCC",
+      "זיהום חד-פעמי בלבד עם anti-HBs מתמשך וללא viral replication",
+      "מניעה מוחלטת של HCC ללא צורך ב-surveillance או antiviral therapy",
+      "HBsAg חיובי מעל 6 חודשים, סיכון ל-cirrhosis ו-hepatocellular carcinoma (HCC)"
+    ],
+    "correctIndex": 3,
+    "explanation": "HBV כרוני: HBsAg+ >6 months, עלול להתקדם ל-cirrhosis ו-HCC. טיפול: antivirals (entecavir, tenofovir). HBV חדה: HBsAg+ זמני; anti-HBs = חיסון או החלמה."
+  },
+  {
+    "id": 59,
+    "category": "IBD",
+    "question": "מהו PSC (Primary Sclerosing Cholangitis) לפי הסיכום?",
+    "options": [
+      "מחלה אוטואימונית – נוגדנים תוקפים צינורות מרה; צלקות; קשר ל-UC וסיכון CRC",
+      "דלקת לבלב חריפה מ-gallstones עם lipase מוגבר",
+      "cholestasis מ-obstruction חיצוני של CBD מאבן בלבד",
+      "דלקת כבד ויראלית חדה (HAV) עם IgM anti-HAV"
+    ],
+    "correctIndex": 0,
+    "explanation": "בסיכום: PSC – אוטואימונית, נוגדנים תוקפים צינורות מרה בכבד, צלקות כרוניות, מעלה סיכון לסרטן; שכיח ב-UC. שונה מ-pancreatitis, choledocholithiasis ו-hepatitis ויראלית."
+  },
+  {
+    "id": 60,
+    "category": "כבד / לבלב / מערכת מרה",
+    "question": "מהו hepatocellular carcinoma (HCC)?",
+    "options": [
+      "סרטן כבד ראשוני, קשור ל-cirrhosis, HBV/HCV ו-hemochromatosis",
+      "metastasis שכיחה מ-colon בלבד, ללא קשר ל-liver disease כרונית",
+      "גידול נדיר של כבד עם c-KIT mutation, ללא קשר ל-cirrhosis",
+      "lymphoma הפטי שכיח יותר מ-primary liver malignancy ב-cirrhotics"
+    ],
+    "correctIndex": 0,
+    "explanation": "HCC: primary liver cancer; גורמים: cirrhosis (כל סיבה), HBV, HCV, aflatoxin, hemochromatosis. סקר עם US + AFP ב-cirrhotics. CRC metastasis, גידול נדיר ו-lymphoma אינם ההגדרה של HCC."
+  },
+  {
+    "id": 61,
+    "category": "כבד / לבלב / מערכת מרה",
+    "question": "מהו chronic pancreatitis?",
+    "options": [
+      "דלקת לבלב חד-פעמית עם lipase חולף וללא fibrosis או exocrine failure",
+      "GERD כרוני עם erosive esophagitis ו-Barrett metaplasia",
+      "acute cholecystitis חוזר עם Murphy sign וללא steatorrhea",
+      "נזק כרוני ללבלב (אלכוהול שכיח), כאב, malabsorption, סוכרת לבלבית"
+    ],
+    "correctIndex": 3,
+    "explanation": "chronic pancreatitis: fibrosis, atrophy, אלכוהול שכיח. כאב כרוני, steatorrhea, diabetes (exocrine/endocrine failure), calcifications ב-CT. שונה מ-acute pancreatitis, GERD ו-cholecystitis."
+  },
+  {
+    "id": 62,
+    "category": "כבד / לבלב / מערכת מרה",
+    "question": "מהו hepatic encephalopathy?",
+    "options": [
+      "migraine עם aura חזותית ללא hyperammonemia או asterixis",
+      "stroke ischemic ב-cortex עם focal deficit וללא קשר ל-liver failure",
+      "הפרעה נוירולוגית מ-hyperammonemia ב-liver failure/cirrhosis",
+      "GERD עם regurgitation וללא שינויי mental status או flapping tremor"
+    ],
+    "correctIndex": 2,
+    "explanation": "hepatic encephalopathy: hyperammonemia → neuro dysfunction (confusion, asterixis, coma) ב-liver failure/cirrhosis. טיפול: lactulose, rifaximin. stroke ו-migraine אינם מנגנון אמוניה; GERD לא גורם encephalopathy."
+  },
+  {
+    "id": 63,
+    "category": "IBD",
+    "question": "מה ההבדל העיקרי בין Crohn ל-Ulcerative Colitis במיקום?",
+    "options": [
+      "UC – כל מעי כולל small bowel; Crohn – מוגבל ל-rectum בלבד",
+      "שניהם מוגבלים ל-stomach ו-duodenum ללא מעורבות colonic",
+      "Crohn – כל מעי (mouth to anus, skip lesions); UC – colon רציף מ-rectum",
+      "Crohn – colon רציף בלבד; UC – skip lesions ב-terminal ileum"
+    ],
+    "correctIndex": 2,
+    "explanation": "Crohn: כל GI tract, skip lesions, terminal ileum שכיח. UC: continuous inflammation מ-rectum proximally, colon בלבד (לרוב). ההפך מהאפשרויות השגויות הוא בלבול נפוץ."
+  },
+  {
+    "id": 64,
+    "category": "IBD",
+    "question": "מה ההבדל ההיסטולוגי העיקרי בין Crohn ל-UC?",
+    "options": [
+      "UC – transmural עם granulomas; Crohn – רק רירית ללא fistulas",
+      "Crohn – transmural, granulomas, skip lesions; UC – רירית/submucosa, crypt abscesses",
+      "זהים היסטולוגית לחלוטין ונבדלים רק בסרולוגיה (ASCA/p-ANCA)",
+      "Crohn – crypt abscesses רציפים; UC – granulomas לא caseating בלבד"
+    ],
+    "correctIndex": 1,
+    "explanation": "Crohn: transmural inflammation, non-caseating granulomas, skip lesions, fistulas. UC: mucosal/submucosal, crypt abscesses, pseudopolyps, continuous, ללא granulomas. ההפך בין המחלות הוא מלכודת קלאסית."
+  },
+  {
+    "id": 65,
+    "category": "IBD",
+    "question": "מהם התסמינים האופייניים ל-Ulcerative Colitis?",
+    "options": [
+      "constipation כרונית ללא דם, עם כאב RLQ ו-mass palpable",
+      "dysphagia לנוזלים ו-regurgitation עם heartburn retrosternal",
+      "bloody diarrhea, urgency, tenesmus, כאבי בטן crampy",
+      "אסימפטומטי תמיד עד שלב metastatic, ללא שינוי bowel habits"
+    ],
+    "correctIndex": 2,
+    "explanation": "UC: bloody diarrhea, urgency, tenesmus, abdominal cramps, weight loss. חומרה לפי extent. constipation + RLQ mass = Crohn terminal ileum; dysphagia = esophageal; UC אינה אסימפטומטית תמיד."
+  },
+  {
+    "id": 66,
+    "category": "IBD",
+    "question": "מהם התסמינים האופייניים ל-Crohn disease?",
+    "options": [
+      "heartburn ו-regurgitation בלבד ללא מעורבות מעי או perianal disease",
+      "כאב בטן, diarrhea, weight loss, fistulas, mass ב-RLQ",
+      "צהבת cholestatic בלבד ללא GI symptoms או weight loss",
+      "אסימפטומטי תמיד; אבחון רק בסקר colonoscopy ללא תסמינים"
+    ],
+    "correctIndex": 1,
+    "explanation": "Crohn: chronic diarrhea (לא תמיד דמי), abdominal pain, weight loss, fever, perianal disease, fistulas, obstruction, RLQ mass (terminal ileum). heartburn, צהבת בלבד או אסימפטומטי תמיד – שגוי."
+  },
+  {
+    "id": 67,
+    "category": "IBD",
+    "question": "מהו סיבוך שכיח ב-Crohn ופחות אופייני ל-UC?",
+    "options": [
+      "toxic megacolon כסיבוך ייחודי ל-Crohn ללא קשר ל-UC חמור",
+      "CRC ללא דלקת מוקדמת, ללא dysplasia או IBD history",
+      "Barrett esophagus עם intestinal metaplasia ב-distal esophagus",
+      "fistulas, strictures ו-abscesses עקב inflammation transmural"
+    ],
+    "correctIndex": 3,
+    "explanation": "Crohn (transmural): fistulas, strictures, abscesses, obstruction. UC: toxic megacolon, severe bleeding. שניהם סיכון CRC (UC יותר עם pancolitis ארוך). Barrett לא קשור ל-IBD."
+  },
+  {
+    "id": 68,
+    "category": "IBD",
+    "question": "מהו toxic megacolon?",
+    "options": [
+      "הרחבת esophagus ב-achalasia עם bird-beak sign ב-barium swallow",
+      "הרחבת colon מעל 6 ס\"מ עם systemic toxicity ב-severe colitis (בעיקר UC)",
+      "גידול שפיר של colon ללא dilation, fever או leukocytosis",
+      "הגדלת ורידים ב-submucosa של esophagus ב-portal hypertension"
+    ],
+    "correctIndex": 1,
+    "explanation": "toxic megacolon: colonic dilation >6cm + toxicity (fever, tachycardia, leukocytosis) ב-severe colitis (בעיקר UC). חירום – IV steroids, surgery אם אין שיפור. achalasia, polyp ו-varices – מלכודות שונות."
+  },
+  {
+    "id": 69,
+    "category": "IBD",
+    "question": "מהו הטיפול הראשוני ל-UC קל-בינוני?",
+    "options": [
+      "5-ASA (mesalamine) – topical (enemas) או systemic לפי extent",
+      "כימותרפיה מערכתית כטיפול קו ראשון ל-proctitis קלה",
+      "fundoplication כירורגית לטיפול ב-disease מוגבל ל-rectum",
+      "PPI בלבד ללא aminosalicylates או topical therapy"
+    ],
+    "correctIndex": 0,
+    "explanation": "UC קל-בינוני: 5-ASA (mesalamine) – enemas ל-proctitis, oral ל-extensive. moderate-severe: corticosteroids, biologics. PPI, fundoplication ו-chemo אינם טיפול ל-UC."
+  },
+  {
+    "id": 70,
+    "category": "IBD",
+    "question": "מהו הטיפול ל-Crohn moderate-severe?",
+    "options": [
+      "PPI בלבד ל-induction ו-maintenance ללא immunomodulators",
+      "antibiotics ל-H. pylori בלבד ללא biologics או steroids",
+      "corticosteroids, immunomodulators (azathioprine) ו-biologics (infliximab)",
+      "pneumatic dilation של LES כטיפול ל-strictures ו-fistulas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Crohn moderate-severe: steroids induction, maintenance – azathioprine/6-MP, methotrexate, biologics (infliximab, adalimumab, ustekinumab). nutrition, surgery ל-strictures/fistulas. PPI, H. pylori eradication ו-achalasia dilation לא רלוונטיים."
+  },
+  {
+    "id": 71,
+    "category": "IBD",
+    "question": "מהי המשמעות של ASCA ו-p-ANCA ב-IBD?",
+    "options": [
+      "HBsAg ו-anti-HCV לאבחון viral hepatitis בלבד, ללא קשר ל-IBD",
+      "troponin ו-BNP לסיכון cardiovascular ב-IBD, לא לסיווג מחלה",
+      "PSA לסקר prostate cancer בחולי IBD, לא markers מעיים",
+      "ASCA תומך ב-Crohn, p-ANCA תומך ב-UC – סרולוגיה משלימה, לא אבחון יחיד"
+    ],
+    "correctIndex": 3,
+    "explanation": "סרולוגיה IBD: ASCA+ ב-Crohn, p-ANCA+ ב-UC – supportive בלבד. אבחון: clinical, endoscopy, histology. HBsAg, troponin ו-PSA אינם markers ל-IBD."
+  },
+  {
+    "id": 72,
+    "category": "IBD",
+    "question": "מהו extraintestinal manifestation אופייני של IBD?",
+    "options": [
+      "arthritis, uveitis, erythema nodosum, pyoderma gangrenosum, PSC",
+      "heartburn ו-regurgitation כתסמינים יחידים ללא מעורבות עור או מפרקים",
+      "acute cholecystitis עם RLQ point tenderness בלבד",
+      "Barrett esophagus כביטוי יחיד של IBD ללא מעורבות מפרקים או עור"
+    ],
+    "correctIndex": 0,
+    "explanation": "extraintestinal IBD: joint (peripheral, axial), eye (uveitis, episcleritis), skin (erythema nodosum, pyoderma gangrenosum), liver (PSC עם UC), osteoporosis. heartburn ו-Barrett לא EIM טיפוסיים."
+  },
+  {
+    "id": 73,
+    "category": "IBD",
+    "question": "מהו primary sclerosing cholangitis (PSC) וקשרו ל-IBD?",
+    "options": [
+      "viral hepatitis B חדה עם HBsAg ו-IgM anti-HBc, ללא קשר ל-UC",
+      "GERD עם erosions וושטיות; אין קשר ל-cholestasis או IBD",
+      "cholestasis כרוני מ-fibrosis של bile ducts, קשור בעיקר ל-UC",
+      "acute pancreatitis מ-alcohol עם lipase מוגבר, ללא bile duct disease"
+    ],
+    "correctIndex": 2,
+    "explanation": "PSC: chronic cholestatic liver disease, fibrosis bile ducts, קשור ל-UC (70-80%). סיכון cholangiocarcinoma. MRCP לאבחון. שונה מ-viral hepatitis, GERD ו-pancreatitis."
+  },
+  {
+    "id": 74,
+    "category": "IBD",
+    "question": "מתי מומלץ colonoscopy surveillance ל-CRC ב-UC?",
+    "options": [
+      "לכלל האוכלוסייה ללא IBD, מגיל 20, ללא התחשבות ב-extent או duration",
+      "pancolitis מעל 8-10 שנים – biopsies לדיספלזיה (chromoendoscopy מועדף)",
+      "רק לפני גיל 20 ב-UC מוגבלת ל-proctitis ללא סיכון מוגבר",
+      "אף פעם ב-UC; סקר CRC רק ב-average-risk population"
+    ],
+    "correctIndex": 1,
+    "explanation": "UC CRC surveillance: pancolitis >8-10 years, PSC – colonoscopy עם random/dye-spray biopsies. Crohn colitis גם סיכון. לא ללא IBD, לא רק <20, ולא never."
+  },
+  {
+    "id": 75,
+    "category": "IBD",
+    "question": "מהו microscopic colitis?",
+    "options": [
+      "שלשול כרוני עם histology אבנורמלית (lymphocytic/collagenous) ו-colonoscopy תקינה מקרוסקופית",
+      "UC חמור עם toxic megacolon, dilation >6 ס\"מ ו-systemic toxicity",
+      "Crohn עם fistula enterovesical ו-transmural inflammation",
+      "GERD עם erosive esophagitis ו-pH monitoring חיובי"
+    ],
+    "correctIndex": 0,
+    "explanation": "microscopic colitis: chronic watery diarrhea, normal colonoscopy macroscopically, biopsy shows lymphocytic או collagenous colitis. טיפול: budesonide. לא UC severe, Crohn fistula או GERD."
+  },
+  {
+    "id": 76,
+    "category": "IBD",
+    "question": "כיצד calprotectin בצואה מסייע לפי הסיכום?",
+    "options": [
+      "אבחנה מבדלת בין IBD ל-IBS ומעקב תגובה לטיפול",
+      "אבחון GERD עם pH monitoring בלבד",
+      "סקר CRC ב-average risk ללא תסמינים",
+      "אבחון cholelithiasis ב-US בלבד"
+    ],
+    "correctIndex": 0,
+    "explanation": "בסיכום: calprotectin מופרש מנויטרופילים בדלקת מעי; שימושים: (1) אבחנה מבדלת IBD מ-IBS; (2) מעקב – ירידה מעידה על החלמת רירית."
+  },
+  {
+    "id": 77,
+    "category": "IBD",
+    "question": "מהו pouchitis?",
+    "options": [
+      "דלקת כיס מרה חריפה עם Murphy sign ו-obstruction של cystic duct",
+      "דלקת של ileal pouch לאחר IPAA (colectomy) ל-UC",
+      "GERD עם reflux ל-denuded esophageal mucosa ו-stricture",
+      "achalasia עם אי-מנוחה של LES ואובדן peristalsis וושטי"
+    ],
+    "correctIndex": 1,
+    "explanation": "pouchitis: inflammation של ileal pouch אחרי colectomy + IPAA ל-UC. תסמינים: increased stool frequency, urgency, bleeding. טיפול: antibiotics (cipro/metronidazole). לא cholecystitis, GERD או achalasia."
+  },
+  {
+    "id": 78,
+    "category": "סרטן מעי גס",
+    "question": "מהו מסלול השכיח ביותר ל-colorectal cancer (CRC)?",
+    "options": [
+      "מעבר ישיר מ-UC ל-CRC ללא polyp או dysplasia בכל המקרים",
+      "זיהום viral בלבד (HPV) כגורם עיקרי ל-CRC sporadic",
+      "adenoma-carcinoma sequence (APC, KRAS, p53) מ-polyp דרך dysplasia",
+      "Barrett metaplasia של esophagus כמסלול עיקרי ל-CRC"
+    ],
+    "correctIndex": 2,
+    "explanation": "CRC pathway שכיח: adenomatous polyp → carcinoma (chromosomal instability: APC, KRAS, p53). microsatellite instability (Lynch). UC dysplasia pathway נפרד. לא viral בלבד או Barrett (esophagus)."
+  },
+  {
+    "id": 79,
+    "category": "סרטן מעי גס",
+    "question": "מהם גורמי הסיכון העיקריים ל-CRC?",
+    "options": [
+      "צמחונות כגורם סיכון יחיד; מים ופעילות גופנית מעלים סיכון לחלוטין",
+      "שתיית מים בלבד ו-PPI כגורמי סיכון מרכזיים ל-adenocarcinoma מעי גס",
+      "גיל, polyp history, IBD, Lynch/FAP, בשר אדום, obesity, עישון",
+      "H. pylori כגורם הסיכון היחיד; ללא תפקיד לגיל או family history"
+    ],
+    "correctIndex": 2,
+    "explanation": "גורמי סיכון CRC: age >50, adenomatous polyps, IBD, family history, Lynch, FAP, diet (red/processed meat), obesity, smoking, diabetes. צמחונות מגנה; מים ו-PPI לא גורמים. H. pylori לא גורם CRC."
+  },
+  {
+    "id": 80,
+    "category": "סרטן מעי גס",
+    "question": "מהו Lynch syndrome (HNPCC)?",
+    "options": [
+      "FAP עם APC mutation ואלפי adenomatous polyps ב-colon צעיר",
+      "H. pylori gastritis כרונית עם סיכון gastric MALT בלבד",
+      "GERD כרוני עם Barrett ו-adenocarcinoma וושטי distal",
+      "מוטציה ב-MMR genes – CRC מוקדם, endometrial, ovarian ו-gastric"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lynch (HNPCC): inherited MMR mutations (MLH1, MSH2...) → MSI-high CRC, endometrial, ovarian, gastric. FAP = APC, thousands polyps. H. pylori ו-GERD/Barrett לא Lynch."
+  },
+  {
+    "id": 81,
+    "category": "סרטן מעי גס",
+    "question": "מהו FAP (familial adenomatous polyposis)?",
+    "options": [
+      "APC mutation – מאות-אלפי adenomatous polyps, CRC כמעט ודאי ללא colectomy",
+      "Lynch syndrome עם MMR deficiency ו-polyp count נמוך יחסית",
+      "polyp אדנומטי בודד sporadic ללא גנטיקה או סיכון משפחתי",
+      "UC עם pancolitis ו-pseudopolyps ללא APC mutation"
+    ],
+    "correctIndex": 0,
+    "explanation": "FAP: autosomal dominant APC mutation, hundreds-thousands colonic adenomas, near 100% CRC risk without prophylactic colectomy. extracolonic: duodenal, desmoid. Lynch = MMR. polyp בודד או UC שונים."
+  },
+  {
+    "id": 82,
+    "category": "סרטן מעי גס",
+    "question": "מהו סקר CRC המומלץ לאוכלוסייה average-risk?",
+    "options": [
+      "אין סקר מומלץ; אבחון רק עם תסמינים (דימום, obstruction)",
+      "colonoscopy כל 10 שנים מגיל 45-50, או FIT שנתי, או חלופות מוכחות",
+      "בדיקת B12 בדם שנתית כתחליף ל-colonoscopy או FIT",
+      "upper endoscopy (EGD) בלבד ללא בדיקת colon"
+    ],
+    "correctIndex": 1,
+    "explanation": "CRC screening average risk (45-50+): colonoscopy q10y, annual FIT/FOBT, flexible sigmoidoscopy, CT colonography, stool DNA – per guidelines. לא no screening, B12 או EGD alone."
+  },
+  {
+    "id": 83,
+    "category": "סרטן מעי גס",
+    "question": "מהו המיקום השכיח ביותר ל-CRC?",
+    "options": [
+      "esophagus proximal – squamous או adenocarcinoma וושטי",
+      "duodenum ו-jejunum כמיקום ראשוני שכיח ל-adenocarcinoma מעי",
+      "rectosigmoid ו-rectum – המיקום השכיח ביותר ל-CRC",
+      "cecum בלבד; rectum ו-sigmoid נדירים יחסית ל-CRC"
+    ],
+    "correctIndex": 2,
+    "explanation": "CRC שכיח ב-rectum ו-sigmoid colon. יורד ב-proximal colon בשנים האחרונות במערב. esophagus = esophageal cancer; duodenum/jejunum נדירים ל-primary CRC."
+  },
+  {
+    "id": 84,
+    "category": "סרטן מעי גס",
+    "question": "מהם התסמינים האופייניים ל-CRC?",
+    "options": [
+      "דם בצואה, שינוי bowel habits, weight loss, anemia, obstruction",
+      "heartburn retrosternal ו-regurgitation המגיבים ל-PPI",
+      "dysphagia לנוזלים בלבד ללא שינוי צואה או anemia",
+      "צהבת בלבד ללא hematochezia, weight loss או שינוי caliber"
+    ],
+    "correctIndex": 0,
+    "explanation": "CRC: hematochezia/melena, change in stool caliber/frequency, abdominal pain, weight loss, iron deficiency anemia, obstruction (left-sided). early may be asymptomatic. heartburn, dysphagia alone, jaundice alone לא typical."
+  },
+  {
+    "id": 85,
+    "category": "סרטן מעי גס",
+    "question": "מהי המשמעות הקלינית של CEA ב-CRC?",
+    "options": [
+      "אבחון יחיד וסקר first-line ל-CRC באוכלוסייה asymptomatic",
+      "marker ל-GERD ו-erosive esophagitis; עולה עם reflux חמור",
+      "marker לאבחון H. pylori; חיובי עם gastritis אקטיבית",
+      "tumor marker למעקב recurrence לאחר resection – לא לסקר אוכלוסייה"
+    ],
+    "correctIndex": 3,
+    "explanation": "CEA: elevated ב-CRC, משמש monitoring recurrence post-resection, לא screening (low sensitivity/specificity). לא diagnosis alone, GERD marker או H. pylori marker."
+  },
+  {
+    "id": 86,
+    "category": "סרטן מעי גס",
+    "question": "מהו staging העיקרי ל-CRC?",
+    "options": [
+      "גודל polyp בלבד – ללא הערכת lymph nodes או metastasis",
+      "TNM – עומק גידול (T), lymph nodes (N), metastasis (M)",
+      "גיל המטופל ו-CEA בלבד – קובעים prognosis ללא imaging",
+      "מספר polyps ב-colonoscopy – ללא histology או invasion depth"
+    ],
+    "correctIndex": 1,
+    "explanation": "CRC staging: TNM – T (tumor depth), N (lymph nodes), M (metastasis). Stage I-IV determines prognosis/treatment. polyp size, age, CEA alone לא staging מלא."
+  },
+  {
+    "id": 87,
+    "category": "סרטן מעי גס",
+    "question": "לאיזה איבר CRC metastasizes הכי שכיח?",
+    "options": [
+      "כבד – דרך portal venous drainage מהמעי הגס",
+      "ריאות בלבד תמיד ראשונות, ללא מעורבות כבד בשלב מוקדם",
+      "מוח בלבד כאתר metastasis ראשון בכל מקרי CRC",
+      "עור כ-metastasis שכיחה ראשונה לפני כבד או ריאות"
+    ],
+    "correctIndex": 0,
+    "explanation": "CRC metastasis שכיח לכבד (portal venous drainage). גם lungs, peritoneum. לא lungs always first, brain alone או skin primary."
+  },
+  {
+    "id": 88,
+    "category": "אנדוסקופיה",
+    "question": "מהו EGD (esophagogastroduodenoscopy)?",
+    "options": [
+      "אנדוסקופיה של colon עד cecum עם polypectomy וביופסיות",
+      "CT abdomen עם contrast – הדמיה רדיולוגית ללא ביופסיה ישירה",
+      "MRI של כבד ודרכי מרה – ללא גישה endoscopic למעי עליון",
+      "אנדוסקופיה של esophagus, stomach ו-duodenum – מעי עליון"
+    ],
+    "correctIndex": 3,
+    "explanation": "EGD: upper endoscopy – esophagus, stomach, duodenum. לאבחון GERD, ulcers, H. pylori biopsy, varices, Barrett. colonoscopy = lower GI; CT/MRI לא endoscopy."
+  },
+  {
+    "id": 89,
+    "category": "אנדוסקופיה",
+    "question": "מהו colonoscopy?",
+    "options": [
+      "אנדוסקופיה עליונה של esophagus ו-stomach בלבד",
+      "ERCP – canulation של ampulla עם contrast ל-bile/pancreatic ducts",
+      "אנדוסקופיה של כל ה-colon עד cecum – polypectomy, biopsies, סקר CRC",
+      "capsule endoscopy של small bowel – ללא גישה ל-colon"
+    ],
+    "correctIndex": 2,
+    "explanation": "colonoscopy: entire colon to cecum, screening, polypectomy, biopsy IBD/CRC. EGD = upper. ERCP = biliary/pancreatic ducts. capsule endoscopy = small bowel."
+  },
+  {
+    "id": 90,
+    "category": "אנדוסקופיה",
+    "question": "מהו ERCP?",
+    "options": [
+      "colonoscopy עם bowel prep – הדמיה של colon ללא cannulation",
+      "endoscopic retrograde cholangiopancreatography – דימות וטיפול בדרכי מרה/לבלב",
+      "EGD סטנדרטי ללא injection contrast ל-bile או pancreatic ducts",
+      "barium swallow – fluoroscopy של esophagus ללא endoscope"
+    ],
+    "correctIndex": 1,
+    "explanation": "ERCP: endoscope ל-duodenum, cannulation ampulla, contrast ל-bile/pancreatic ducts, stone extraction, stent, sphincterotomy. סיכון post-ERCP pancreatitis. לא colonoscopy, EGD alone או barium swallow."
+  },
+  {
+    "id": 91,
+    "category": "אנדוסקופיה",
+    "question": "מתי נדרשות biopsies ב-Barrett esophagus?",
+    "options": [
+      "PPI מלא + EGD כל שנתיים לפי הסיכום",
+      "אף פעם – Barrett מאובחן ויזואלית בלבד ללא histology",
+      "רק ב-colonoscopy – Barrett אינו אינדיקציה ל-biopsy ב-EGD",
+      "רק ב-CT chest – ללא endoscopic sampling של esophageal mucosa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Barrett בסיכום: PPI מלא; מעקב EGD כל שנתיים לשלילת התפתחות סרטנית. לא never, colonoscopy או CT."
+  },
+  {
+    "id": 92,
+    "category": "אנדוסקופיה",
+    "question": "מהו endoscopic variceal band ligation?",
+    "options": [
+      "הסרת colonic polyp ב-snare electrocautery במהלך colonoscopy",
+      "הזרקת PPI IV ל-varices – עצירת דימום pharmacologic בלבד",
+      "כימותרפיה systemic ל-esophageal varices – ללא endoscopic therapy",
+      "טיפול endoscopic ב-varices וושטיות/גסטריות – rubber bands לעצירת דימום"
+    ],
+    "correctIndex": 3,
+    "explanation": "endoscopic variceal band ligation: rubber bands על varices לעצירת דימום/מניעה. polypectomy = snare. PPI IV לא ligation. chemo לא endoscopic hemostasis."
+  },
+  {
+    "id": 93,
+    "category": "אנדוסקופיה",
+    "question": "מהי הכנה נאותה ל-colonoscopy?",
+    "options": [
+      "צום נוזלים, bowel prep (PEG), הפסקת anticoagulants לפי פרוטוקול",
+      "ארוחה כבדה עשירה בשומן לפני 12 שעות – לשיפור visualization",
+      "ללא צום – אכילה רגילה עד השעה שלפני הבדיקה",
+      "MRI abdomen בלבד – ללא bowel prep או צום"
+    ],
+    "correctIndex": 0,
+    "explanation": "colonoscopy prep: clear liquids, bowel prep (PEG solution), hold iron/anticoagulants per protocol. heavy meal, no fast, MRI לא prep."
+  },
+  {
+    "id": 94,
+    "category": "אנדוסקופיה",
+    "question": "מהו capsule endoscopy?",
+    "options": [
+      "colonoscopy מלאה עם CO2 insufflation ו-polypectomy",
+      "קפסולה בליעה עם מצלמה – הדמיית מעי דק (obscure bleeding, Crohn)",
+      "ERCP עם sphincterotomy – לא מתאים ל-small bowel imaging",
+      "ERCP עם sphincterotomy – לא מתאים ל-small bowel imaging"
+    ],
+    "correctIndex": 1,
+    "explanation": "capsule endoscopy: wireless camera capsule ל-small bowel (obscure bleeding, Crohn). לא colon, EGD או ERCP."
+  },
+  {
+    "id": 95,
+    "category": "אנדוסקופיה",
+    "question": "מהו polypectomy במהלך colonoscopy?",
+    "options": [
+      "כריתת appendix laparoscopic – לא מתבצעת במהלך colonoscopy",
+      "fundoplication – כירורגיה ל-GERD, לא procedure ב-colonoscopy",
+      "הסרת adenomatous polyp (snare) – מניעת התקדמות ל-CRC",
+      "Heller myotomy – טיפול ב-achalasia, לא ב-colon"
+    ],
+    "correctIndex": 2,
+    "explanation": "polypectomy: removal adenomatous polyp during colonoscopy – prevents CRC. appendectomy, fundoplication ו-myotomy = procedures אחרים."
+  },
+  {
+    "id": 96,
+    "category": "אנדוסקופיה",
+    "question": "מה תפקיד VCE (קפסולה אנדוסקופית) לפי הסיכום?",
+    "options": [
+      "בירור דימום ממקור לא ידוע במעי הדק; אבחון Crohn במעי דק",
+      "טיפול ב-varices בוושט עם קשירת דליות",
+      "סקר Barrett עם biopsies כל שנה",
+      "הוצאת אבנים מ-CBD כחלופה ל-ERCP"
+    ],
+    "correctIndex": 0,
+    "explanation": "בסיכום: VCE – מצלמה נבלעת; דימום ממקור לא ידוע אחרי בדיקות תקינות; Crohn במעי דק. לא varices, Barrett surveillance או אבנים."
+  },
+  {
+    "id": 97,
+    "category": "סרטן מעי גס",
+    "question": "מהי תסמונת Peutz-Jeghers לפי הסיכום?",
+    "options": [
+      "מחלה גנטית נדירה – כתמי פיגמנטציה בשפתיים ופה + פוליפים במעי; מעלה סיכון לסרטן",
+      "FAP עם מאות פוליפים מגיל 10-12",
+      "Lynch עם MMR mutation בלבד",
+      "average-risk CRC screening מגיל 50"
+    ],
+    "correctIndex": 0,
+    "explanation": "בסיכום: Peutz-Jeghers – כתמים כהים בשפתיים/פה + פוליפים לאורך GI; מעלה סיכון לסרטן במעי. FAP ו-Lynch הם תסמונות אחרות מהסיכום."
+  },
+  {
+    "id": 98,
+    "category": "IBD",
+    "question": "איך מבדילים IBD מ-IBS לפי הסיכום?",
+    "options": [
+      "calprotectin בצואה גבוה ב-IBD ונמוך ב-IBS; CRP/ESR; אנדוסקופיה",
+      "תסמינים פונקציונליים בלבד ללא בדיקות מעבדה",
+      "H. pylori breath test כבדיקה ראשונה",
+      "Murphy sign ב-RUQ"
+    ],
+    "correctIndex": 0,
+    "explanation": "בסיכום: calprotectin מבדיל IBD מ-IBS; גם CRP/ESR; אנדוסקופיה עם biopsies לאבחנת IBD."
+  },
+  {
+    "id": 99,
+    "category": "שונות",
+    "question": "מהם מקורות דימום GI לפי הסיכום?",
+    "options": [
+      "עליון: PUD, varices; hematemesis ו-melena; תסמינים מעידים על דימום פעיל",
+      "רק מצב קולוני (לא מפורט בסיכום) ו-מקור דימום – ללא מקור עליון",
+      "רק דימום עליון ו-קרע וושטי בכל דימום",
+      "varices בלבד בכל hematemesis ללא PUD"
+    ],
+    "correctIndex": 0,
+    "explanation": "בסיכום: hematemesis ו-melena = דימום פעיל בוושט/עליון; PUD דימום נפוץ; varices ב-cirrhosis. אינדיקציות colonoscopy: דימום רקטלי."
+  },
+  {
+    "id": 100,
+    "category": "שונות",
+    "question": "מהו flapping tremor (asterixis) לפי הסיכום?",
+    "options": [
+      "רעד בידיים באנצפלופתיה כבדית – מאמוניה שלא מסוננת",
+      "רעד ב-Wilson disease בלבד ללא קשר לכבד",
+      "כאב RLQ ב-cholecystitis",
+      "סימן ב-GERD עם heartburn"
+    ],
+    "correctIndex": 0,
+    "explanation": "בסיכום: אנצפלופתיה כבדית – אמוניה מגיעה למוח; flapping tremor (דורסי פלקשן). Wilson יש נזק נוירולוגי אך asterixis ספציפי ל-encephalopathy."
+  }
+]

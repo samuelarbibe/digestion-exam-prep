@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "category": "היסטולוגיה",
+    "question": "איזו שכבה של דופן מעי מכילה את plexus submucosus (Meissner)?",
+    "options": [
+      "רירית (mucosa) – כוללת epithelium ו-lamina propria",
+      "muscularis propria – בין שכבות השריר האורכי והמעגלי",
+      "תת-רירית (submucosa) – עם כלי דם, לימפה ורשת עצבים",
+      "serosa / adventitia – השכבה החיצונית של דופן המעי"
+    ],
+    "correctIndex": 2,
+    "explanation": "plexus submucosus (Meissner) ממוקם בתת-רירית ושולט בעיקר בזרימת הדם, ברירית ובלוטות. plexus myenteric (Auerbach) ממוקם בין שכבות השריר של muscularis propria ושולט בעיקר בפריסטלטיקה."
+  },
+  {
+    "id": 2,
+    "category": "היסטולוגיה",
+    "question": "מה מפרישות בלוטות הרוק לפי הסיכום?",
+    "options": [
+      "עמילאז ברוק לפירוק פחמימות מורכבות",
+      "HCl ו-intrinsic factor לעיכול חלבונים בפה",
+      "bile salts לאמולסיה של שומנים בלשון",
+      "pancreatic lipase לפירוק שומנים לפני הבליעה"
+    ],
+    "correctIndex": 0,
+    "explanation": "לפי הסיכום: בלוטות הרוק (תת-אוזנית, תת-לסתית, תת-לשונית) מפרישות עמילאז ברוק לפירוק פחמימות. HCl ו-IF מפרישים תאי parietal בקיבה. bile ו-lipase פועלים במעי דק."
+  },
+  {
+    "id": 3,
+    "category": "היסטולוגיה",
+    "question": "מהו סוג האפיתל המצפה את הוושט?",
+    "options": [
+      "אפיתל עמודי חד-שכבתי (simple columnar) – כמו בקיבה",
+      "אפיתל גלנדולרי (glandular) – עם בלוטות הפרשה",
+      "אפיתל מעבר (transitional) – כמו בשלפוחית השתן",
+      "אפיתל שטוח רב-שכבתי (stratified squamous) – לא קרטיניזציה מלאה"
+    ],
+    "correctIndex": 3,
+    "explanation": "הוושט מצופה באפיתל שטוח רב-שכבתי שאינו קרטיניזציה מלאה, המתאים לעמידות במעבר מזון. המעבר ל-Junction squamocolumnar (Z-line) מסמן מעבר לאפיתל עמודי חד-שכבתי בקיבה."
+  },
+  {
+    "id": 4,
+    "category": "היסטולוגיה",
+    "question": "איזו תאי קיבה אחראים על הפרשת intrinsic factor?",
+    "options": [
+      "תאי parietal (אוקסינטיים) – גם מפרישים HCl",
+      "תאי chief (זימוגניים) – מפרישים pepsinogen",
+      "תאי G – מפרישים gastrin באנטרום",
+      "תאי D – מפרישים somatostatin"
+    ],
+    "correctIndex": 0,
+    "explanation": "תאי parietal מפרישים HCl ו-intrinsic factor. תאי chief מפרישים pepsinogen. תאי G מפרישים gastrin. תאי D מפרישים somatostatin."
+  },
+  {
+    "id": 5,
+    "category": "היסטולוגיה",
+    "question": "מהו מבנה היסטולוגי האופייני של villi במעי הדק?",
+    "options": [
+      "ליבת submucosa עם plexus submucosus וכלי דם גדולים",
+      "ליבת lamina propria עם כלי דם ו-lacteal, מכוסה אפיתל עמודי עם goblet cells",
+      "ליבת muscularis mucosae עם ganglia של Auerbach",
+      "ליבת connective tissue של serosa עם mesothelium"
+    ],
+    "correctIndex": 1,
+    "explanation": "villi במעי הדק מכילים ליבת lamina propria עם capillaries ו-lacteal (לימפה), מכוסים באפיתל עמודי עם enterocytes, goblet cells ו-absorptive cells. microvilli (brush border) מגדילים שטח ספיגה."
+  },
+  {
+    "id": 6,
+    "category": "היסטולוגיה",
+    "question": "איפה נמצאים תאי Paneth?",
+    "options": [
+      "בבסיס gastric pits של הקיבה",
+      "ב-sinusoids של hepatic lobule בכבד",
+      "בבסיס קריפטות (crypts) של המעי הדק, בעיקר ב-jejunum ו-ileum",
+      "באפיתל השטוח של הוושט הפרוקסימלי"
+    ],
+    "correctIndex": 2,
+    "explanation": "תאי Paneth נמצאים בבסיס קריפטות המעי הדק, בעיקר ב-jejunum ו-ileum. הם מפרישים lysozyme, defensins ואנזימים אנטי-מיקרוביאליים. הם אינם נמצאים בוושט, כבד או פה."
+  },
+  {
+    "id": 7,
+    "category": "היסטולוגיה",
+    "question": "מהו תפקיד ה-muscularis mucosae?",
+    "options": [
+      "יצירת קפלים בריריתיים (rugae) ותנועות מקומיות של הרירית",
+      "פריסטלטיקה עיקרית של כל דופן המעי",
+      "הפרשת mucus מ-goblet cells",
+      "ספיגת חומצות שומן ב-ileum"
+    ],
+    "correctIndex": 0,
+    "explanation": "muscularis mucosae הוא שכבת שריר דקה מתחת ל-lamina propria, האחראית על תנועות מקומיות של הרירית ויצירת rugae בקיבה. פריסטלטיקה עיקרית נשלטת על ידי muscularis propria ו-plexus myenteric (Auerbach)."
+  },
+  {
+    "id": 8,
+    "category": "היסטולוגיה",
+    "question": "איזה סוג אפיתל מאפיין את המעי הגס (מלבד אזור אנאלי)?",
+    "options": [
+      "אפיתל שטוח רב-שכבתי ללא קרניפיקציה",
+      "אפיתל עמודי חד-שכבתי עם villi ו-microvilli",
+      "אפיתל עמודה רב-שכבתי (stratified columnar)",
+      "אפיתל עמודי חד-שכבתי עם goblet cells רבים, ללא villi"
+    ],
+    "correctIndex": 3,
+    "explanation": "המעי הגס מצופה באפיתל עמודי חד-שכבתי עם goblet cells רבים המפרישים mucus. אין villi. crypts עמוקים יותר. האזור האנאלי מכיל מעבר לאפיתל שטוח."
+  },
+  {
+    "id": 9,
+    "category": "היסטולוגיה",
+    "question": "מהו מבנה ה-hepatic lobule?",
+    "options": [
+      "יחידה עם portal vein במרכז ו-hepatic artery בפינות",
+      "יחידה עם central vein במרכז ו-portal triad בפינות",
+      "מבנה acinar עם enzymatic secretion למרכז",
+      "מבנה לימפואידי עם germinal centers ו-cortex"
+    ],
+    "correctIndex": 1,
+    "explanation": "hepatic lobule קלאסי: central vein במרכז, hepatocytes מסודרים באונות רדיאליות, portal triad (hepatic artery, portal vein, bile duct) בפינות. hepatocytes מפרישים bile ל-canaliculi."
+  },
+  {
+    "id": 10,
+    "category": "היסטולוגיה",
+    "question": "איזו שכבה של קיבה מכילה glands ו-muscularis mucosae?",
+    "options": [
+      "תת-רירית (submucosa) – עם Meissner plexus",
+      "muscularis propria – עם שכבות שריר אורכי ומעגלי",
+      "רירית (mucosa) – epithelium, lamina propria, glands",
+      "serosa – רקמת חיבור עם peritoneum"
+    ],
+    "correctIndex": 2,
+    "explanation": "שכבת הרירית (mucosa) בקיבה כוללת: epithelium, lamina propria, muscularis mucosae ו-gastric glands. תת-רירית מכילה plexus submucosus וכלי דם. muscularis propria מכילה שכבות שריר ו-Auerbach plexus."
+  },
+  {
+    "id": 11,
+    "category": "היסטולוגיה",
+    "question": "מה מאפיין histologically את Brunner glands?",
+    "options": [
+      "בלוטות אלקליניות ב-submucosa של duodenum",
+      "בלוטות חומציות ב-mucosa של jejunum",
+      "בלוטות oxyntic בגוף הקיבה (fundus/body)",
+      "בלוטות pyloric באנטרום עם mucus בלבד"
+    ],
+    "correctIndex": 0,
+    "explanation": "Brunner glands נמצאות ב-submucosa של duodenum (בעיקר proximal) ומפרישות mucus אלקלי להגנה מפני חומצה ולubrication. הן אינן ב-jejunum, ileum או קיבה."
+  },
+  {
+    "id": 12,
+    "category": "היסטולוגיה",
+    "question": "מהו תפקיד ה-Peyer's patches במעי?",
+    "options": [
+      "בלוטות הפרשת אנזימים ב-mucosa של duodenum",
+      "מבנה ספיגת שומן – אגרגט lymphoid סביב lacteal",
+      "רקמת שריר חלק לפריסטלטיקה ב-submucosa",
+      "רקמת לימפואידית מאורגנת (GALT) ב-ileum"
+    ],
+    "correctIndex": 3,
+    "explanation": "Peyer's patches הם אגרגטים לימפואידיים (GALT) ב-submucosa ו-mucosa של ileum. הם חלק ממערכת החיסון המעי ומזהים אנטיגנים. אינם קשורים להפרשה, ספיגת שומן או פריסטלטיקה."
+  },
+  {
+    "id": 13,
+    "category": "היסטולוגיה",
+    "question": "איזה תא בלוטת הלבלב (pancreas) מפריש אינסולין?",
+    "options": [
+      "תאי α (alpha) – מפרישים glucagon",
+      "תאי β (beta) ב-islets of Langerhans",
+      "תאי δ (delta) – מפרישים somatostatin",
+      "תאי acinar – מפרישים amylase ו-lipase"
+    ],
+    "correctIndex": 1,
+    "explanation": "ב-islets of Langerhans: תאי β מפרישים אינסולין, תאי α מפרישים glucagon, תאי δ מפרישים somatostatin. תאי acinar מפרישים אנזימי עיכול (exocrine). תאי ductal מובילים נוזל."
+  },
+  {
+    "id": 14,
+    "category": "היסטולוגיה",
+    "question": "מה מאפיין את אפיתל כלי המרה (bile duct)?",
+    "options": [
+      "אפיתל שטוח רב-שכבתי – כמו בוושט",
+      "אפיתל מעבר (transitional) – כמו בדרכי השתן",
+      "אפיתל עמודי חד-שכבתי (simple columnar)",
+      "אפיתל קובי חד-שכבתי (simple cuboidal) של canaliculi"
+    ],
+    "correctIndex": 2,
+    "explanation": "כלי מרה מצופים באפיתל עמודי חד-שכבתי. אפיתל שטוח מאפיין וושט ואזור אנאלי. אפיתל עמודה רב-שכבתי נפוץ באפיתל מעבר. בלוטות קיבה הן glandular columnar."
+  },
+  {
+    "id": 15,
+    "category": "היסטולוגיה",
+    "question": "מהו plexus myenteric (Auerbach)?",
+    "options": [
+      "רשת עצבים ב-submucosa – שולטת בזרימת דם ורירית",
+      "רשת עצבים ב-lamina propria – ליד crypts",
+      "רשת בכבד – לוויסות זרימת bile ב-canaliculi",
+      "רשת עצבים בין שכבות muscularis propria – שולטת בפריסטלטיקה"
+    ],
+    "correctIndex": 3,
+    "explanation": "plexus myenteric (Auerbach) ממוקם בין שכבות השריר החלק והאורכי של muscularis propria ושולט בפריסטלטיקה ותנועות מעי. plexus submucosus (Meissner) ב-submucosa שולט בזרימת דם, בלוטות ורירית."
+  },
+  {
+    "id": 16,
+    "category": "וושט",
+    "question": "מהו הגורם העיקרי ל-GERD?",
+    "options": [
+      "עלייה מתמדת בלחץ LES (hypertension) ללא reflux",
+      "ירידה בלחץ LES והחזרת חומצה קיבתית לוושט",
+      "היפרמוטיליות אסופגית בלבד ללא dysfunction של LES",
+      "achlorhydria – חוסר הפרשת HCl בקיבה"
+    ],
+    "correctIndex": 1,
+    "explanation": "GERD נגרם בעיקר מ-transient LES relaxations ו/או hypotonia של LES, המאפשרים reflux של תוכן קיבתי (חומצה, pepsin) לוושט. גורמים נוספים: hiatal hernia, עיכוב ריקון וושטי, obesity. לא עלייה בלחץ LES או היפומוטיליות."
+  },
+  {
+    "id": 17,
+    "category": "וושט",
+    "question": "מהם התסמינים הקלאסיים של GERD?",
+    "options": [
+      "צרבת (heartburn) ו-regurgitation",
+      "שלשול דמי (hematochezia) כתסמין מוביל",
+      "צהבת ואיורכיה (acholic stools)",
+      "כאב בטן תחתון ימני (RLQ) בלבד"
+    ],
+    "correctIndex": 0,
+    "explanation": "תסמיני GERD קלאסיים: heartburn (צרבת retrosternal), regurgitation (החזרת טעם חמוץ/מר), לעיתים dysphagia, כאב חזה. שלשול דמי, צהבת וכאב RLQ אינם תסמינים אופייניים ל-GERD."
+  },
+  {
+    "id": 18,
+    "category": "וושט",
+    "question": "מהו Barrett esophagus?",
+    "options": [
+      "דלקת ויראלית חריפה (herpes esophagitis)",
+      "גידול שפיר – leiomyoma של הוושט",
+      "intestinal metaplasia של אפיתל וושטי בעקבות GERD כרוני",
+      "achalasia – אי-מנוחה של LES ואובדן peristalsis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Barrett esophagus הוא החלפת אפיתל שטוח באפיתל עמודה (intestinal metaplasia עם goblet cells) באזור distal esophagus בעקבות reflux כרוני. מגדיל סיכון ל-adenocarcinoma וושטי. אינו דלקת ויראלית, גידול שפיר או achalasia."
+  },
+  {
+    "id": 19,
+    "category": "וושט",
+    "question": "מהו הטיפול הראשוני ל-GERD?",
+    "options": [
+      "כריתה כירורגית מיידית (fundoplication) לכל המטופלים",
+      "אנטיביוטיקה ל-H. pylori כטיפול יחיד ללא PPI",
+      "גלוקוקorticoids מערכתיים לדיכוי דלקת",
+      "שינויי אורח חיים + מעכבי proton pump (PPI)"
+    ],
+    "correctIndex": 3,
+    "explanation": "טיפול ראשוני ב-GERD: שינויי אורח חיים (הרמת ראש, הימנעות מארוחות לילה, ירידה במשקל, הימנעות מטריגרים) + PPI (אומפרזול וכו'). H2 blockers לתסמינים קלים. כירורגיה (fundoplication) למקרים עמידים. אנטיביוטיקה ל-H. pylori לא לGERD בלבד."
+  },
+  {
+    "id": 20,
+    "category": "וושט",
+    "question": "מה מאפיין achalasia?",
+    "options": [
+      "hypotonia של LES עם reflux כרוני – דומה ל-GERD",
+      "אי-מנוחה של LES ואובדן peristalsis בגוף הוושט",
+      "stenosis ממאירה (malignant stricture) בלבד",
+      "Barrett metaplasia עם goblet cells"
+    ],
+    "correctIndex": 1,
+    "explanation": "achalasia: אי-מנוחה (failure to relax) של LES במהלך בליעה + אובדן peristalsis בגוף הוושט. גורם: נזק ל-myenteric plexus. תסמינים: dysphagia לנוזלים ומוצקים, regurgitation, כאב חזה. bird-beak sign ב-barium swallow."
+  },
+  {
+    "id": 21,
+    "category": "וושט",
+    "question": "מהו הטיפול העיקרי ל-achalasia?",
+    "options": [
+      "הרחבה פנאומטית אנדוסקופית או ניתוח הלר (cardiomyotomy)",
+      "PPI לטווח ארוך כטיפול יחיד",
+      "אנטיביוטיקה רחבה ל-eradication",
+      "כימותרפיה לפני כל טיפול אנדוסקופי"
+    ],
+    "correctIndex": 0,
+    "explanation": "טיפול achalasia בסיכום: הרחבה פנאומטית אנדוסקופית; ניתוח הלר לפרוסקופי ± ניסן fundoplication. PPI לא מטפל ב-achalasia. אנטיביוטיקה וכימותרפיה לא רלוונטיים."
+  },
+  {
+    "id": 22,
+    "category": "וושט",
+    "question": "מהו סוג הסרטן השכיח בוושט distal עם Barrett?",
+    "options": [
+      "squamous cell carcinoma – שכיח בוושט פרוקסימלי",
+      "lymphoma – MALT של הוושט",
+      "adenocarcinoma",
+      "Leiomyosarcoma – גידול שריר חלק"
+    ],
+    "correctIndex": 2,
+    "explanation": "באזור distal עם Barrett והיסטוריה של GERD שכיח adenocarcinoma. squamous cell carcinoma שכיח יותר בוושט proximal/מזרח אסיה. lymphoma ו-leiomyosarcoma (נדיר) אינם הסוגים השכיחים בוושט."
+  },
+  {
+    "id": 23,
+    "category": "וושט",
+    "question": "מהם גורמי הסיכון ל-squamous cell carcinoma של הוושט?",
+    "options": [
+      "GERD כרוני ו-obesity – גורמים עיקריים ל-adenocarcinoma",
+      "H. pylori – גורם עיקרי לגסטריטיס ופצעת",
+      "IBD – קשור בעיקר ל-CRC ולא ל-SCC וושטי",
+      "עישון, אלכוהול, achalasia, caustic injury, Plummer-Vinson"
+    ],
+    "correctIndex": 3,
+    "explanation": "גורמי סיכון ל-esophageal SCC: עישון, אלכוהול, achalasia, caustic stricture, Plummer-Vinson syndrome, tylosis. GERD ו-obesity קשורים יותר ל-adenocarcinoma. H. pylori ו-IBD אינם גורמי סיכון עיקריים ל-SCC וושטי."
+  },
+  {
+    "id": 24,
+    "category": "וושט",
+    "question": "מהו סיבוך כרוני של GERD לא מטופל לפי הסיכום?",
+    "options": [
+      "Esophageal stricture – היצרות מצלקת בוושט",
+      "Achalasia עם bird-beak ב-barium",
+      "Hiatal hernia sliding ללא דלקת",
+      "H. pylori gastritis בלבד ללא reflux"
+    ],
+    "correctIndex": 0,
+    "explanation": "סיבוכי GERD בסיכום: esophagitis, esophageal stricture, Barrett's esophagus, laryngitis, bronchial asthma, aspiration pneumonia. stricture = רקמת צלקת קשיחה בעקבות דלקת כרונית."
+  },
+  {
+    "id": 25,
+    "category": "וושט",
+    "question": "מה מאפיין esophageal varices?",
+    "options": [
+      "ורידים מורחבים ב-submucosa distal בעקבות portal hypertension",
+      "גידולים שפירים (papilloma) של הרירית הוושטית",
+      "stenosis פיברוטית מ-GERD כרוני",
+      "achalasia – אי-מנוחה של LES"
+    ],
+    "correctIndex": 0,
+    "explanation": "esophageal varices: ורידים מורחבים (בעיקר left gastric vein → esophageal veins) ב-submucosa distal esophagus בגלל portal hypertension (cirrhosis). סיכון לדימום מסיבי. לא גידולים שפירים, stenosis GERD או achalasia."
+  },
+  {
+    "id": 26,
+    "category": "וושט",
+    "question": "מהו הטיפול הראשון בדימום varices וושטיות?",
+    "options": [
+      "PPI בלבד ללא אנדוסקופיה",
+      "אנטיביוטיקה ל-H. pylori כטיפול ראשון",
+      "ייצוב המודינמי + קשירת דליות בגסטרוסקופיה",
+      "כימותרפיה לפני stabilisation hemodynamic"
+    ],
+    "correctIndex": 2,
+    "explanation": "דימום varices בסיכום: חוסמי בטא לא סלקטיביים; קשירת דליות בגסטרוסקופיה (גומיות על הורידים). PPI לא מטפל ב-varices. H. pylori וכימותרפיה לא רלוונטיים לדימום חריף."
+  },
+  {
+    "id": 27,
+    "category": "וושט",
+    "question": "מהו סיבוך אפשרי של סרטן וושט לפי הסיכום?",
+    "options": [
+      "Tracheo-esophageal fistula – שיעול אחרי בליעה, דלקת ריאות",
+      "Achalasia עם bird-beak ב-barium",
+      "Hiatal hernia sliding בלבד ללא קשר לסרטן",
+      "GERD עם heartburn בלבד ללא סיבוכים"
+    ],
+    "correctIndex": 0,
+    "explanation": "בסיכום: coughing after swallowing, pneumonia & pleural effusion מעידים על fistula בין קנה הנשימה לוושט (tracheo-esophageal fistula) כשהגידול חודר. achalasia ו-GERD הם מצבים נפרדים."
+  },
+  {
+    "id": 28,
+    "category": "וושט",
+    "question": "מהו hiatal hernia?",
+    "options": [
+      "hernia inguinal – מעבר תוכן דרך inguinal canal",
+      "הרמת חלק מהקיבה דרך hiatus אסופגי לחזה",
+      "corrosive stricture – היצרות מחומרים קורוזיביים",
+      "stricture מ-caustic ingestion בוושט"
+    ],
+    "correctIndex": 1,
+    "explanation": "hiatal hernia: herniation של stomach (ועיתוי GE junction) דרך esophageal hiatus לתוך thorax. סוגים: sliding (Type I, שכיח) ו-paraoesophageal (Type II+). קשור ל-GERD. לא inguinal hernia, corrosive stricture stricture."
+  },
+  {
+    "id": 29,
+    "category": "פצעת עיכול / גסטריטיס",
+    "question": "מהו המיקום השכיח ביותר לפצעת עיכול?",
+    "options": [
+      "duodenal bulb (duodenal ulcer)",
+      "gastric fundus – אזור עם הכי הרבה parietal cells",
+      "jejunum – מעי דק פרוקסימלי",
+      "rectum – חלק distal של המעי הגס"
+    ],
+    "correctIndex": 0,
+    "explanation": "פצעות עיכול שכיחות ב-duodenal bulb (הכי שכיח) ו-gastric antrum/body. נדירות ב-jejunum, rectum ו-cecum (אלא אם קשור ל-מצבים נדירים)."
+  },
+  {
+    "id": 30,
+    "category": "פצעת עיכול / גסטריטיס",
+    "question": "מהו הקשר בין H. pylori לפצעת עיכול?",
+    "options": [
+      "H. pylori מונע פצעות על ידי הגברת mucus",
+      "H. pylori גורם רק ל-CRC ללא קשר לפצעת",
+      "H. pylori גורם לגסטריטיס כרונית ועלייה בחומצה → סיכון לפצעת",
+      "H. pylori מדכא gastrin ומונע hyperacidity"
+    ],
+    "correctIndex": 2,
+    "explanation": "H. pylori: גסטריטיס כרונית, עלייה ב-gastrin ו-HCl (במיוחד antral), פגיעה במנגנוני הגנה → duodenal ו-gastric ulcers. גם קשור ל-gastric cancer ו-MALT lymphoma. לא מונע פצעות ולא קשור ל-CRC ישירות."
+  },
+  {
+    "id": 31,
+    "category": "פצעת עיכול / גסטריטיס",
+    "question": "מהו triple therapy ל-H. pylori?",
+    "options": [
+      "PPI בלבד למשך 4 שבועות ללא אנטיביוטיקה",
+      "PPI + clarithromycin + amoxicillin (או metronidazole) × 14 יום",
+      "אנטיביוטיקה בודדת (amoxicillin) למשך 7 ימים",
+      "bismuth בלבד ללא PPI או אנטיביוטיקה נוספת"
+    ],
+    "correctIndex": 1,
+    "explanation": "Triple therapy קלאסי: PPI (למשל omeprazole) + clarithromycin + amoxicillin (או metronidazole אם allergy) למשך 14 יום. quadruple therapy (bismuth) כחלופה. PPI בלבד לא מטפל ב-H. pylori. אנטיביוטיקה בודדת לא מספיקה."
+  },
+  {
+    "id": 32,
+    "category": "פצעת עיכול / גסטריטיס",
+    "question": "מהו התסמין האופייני ל-duodenal ulcer?",
+    "options": [
+      "כאב epigastric שמחמיר לאחר אכילה – כמו ב-gastric ulcer",
+      "צהבת וכאב בטן מפושט עם fever",
+      "שלשול דמי כתסמין מוביל",
+      "כאב epigastric שמוקל לאחר אכילה (pain relief with food)"
+    ],
+    "correctIndex": 3,
+    "explanation": "duodenal ulcer: כאב epigastric בדרך כלל מוקל באכילה (pain relief with food), מחמיר 2-3 שעות לאחר ארוחה, לעיתים nocturnal pain. gastric ulcer: כאב מחמיר באכילה. צהבת ושלשול דמי לא אופייניים לפצעת פשוטה."
+  },
+  {
+    "id": 33,
+    "category": "פצעת עיכול / גסטריטיס",
+    "question": "מהו התסמין האופייני ל-gastric ulcer?",
+    "options": [
+      "כאב epigastric שמחמיר באכילה (pain worsened by food)",
+      "כאב שמוקל באכילה – כמו ב-duodenal ulcer",
+      "כאב לילי בלבד ללא קשר לאכילה",
+      "מצב אסימפטומטי תמיד עד perforation"
+    ],
+    "correctIndex": 0,
+    "explanation": "gastric ulcer: כאב epigastric שמחמיר באכילה (pain worsened by food) בגלל contact עם פצעת. duodenal: מוקל באכילה. gastric ulcer דורשת biopsies לשלילת malignancy."
+  },
+  {
+    "id": 34,
+    "category": "פצעת עיכול / גסטריטיס",
+    "question": "מהם גורמי הסיכון לפצעת עיכול (מלבד H. pylori)?",
+    "options": [
+      "שימוש כרוני ב-PPI – מגדיל סיכון לפצעת",
+      "NSAIDs, עישון, אלכוהול, stress (ICU), קפאין",
+      "דיאטה צמחונית עשירה בסיבים",
+      "שתיית מים בכמויות גדולות"
+    ],
+    "correctIndex": 1,
+    "explanation": "גורמי סיכון לפצעת עיכול: H. pylori, NSAIDs (עיקרי), עישון, אלכוהול, stress ulcers (ICU), קפאין (מעלה הפרשת חומצה), family history. PPI מגן מפצעת NSAID. צמחונות ומים אינם גורמי סיכון."
+  },
+  {
+    "id": 35,
+    "category": "פצעת עיכול / גסטריטיס",
+    "question": "מהי גסטריטיס אירוזיבית לפי הסיכום?",
+    "options": [
+      "דלקת רירית קיבה עם erosions שטחיות – לרוב stress, NSAIDs, אלכוהול",
+      "דלקת transmural עם granulomas כמו ב-Crohn",
+      "מחלה אוטואימונית עם anti-parietal antibodies בלבד",
+      "גסטריטיס ויראלית מ-HAV בלבד"
+    ],
+    "correctIndex": 0,
+    "explanation": "בסיכום: erosive gastritis – erosions שטחיות ברירית; גורמים: stress (ICU), NSAIDs, אלכוהול. שונה מ-atrophic gastritis אוטואימונית/סביבתית ומ-Crohn."
+  },
+  {
+    "id": 36,
+    "category": "פצעת עיכול / גסטריטיס",
+    "question": "מהו acute gastritis?",
+    "options": [
+      "דלקת כרונית אטרופית – אוטואימונית נגד parietal cells",
+      "גידול אפיתלiali בקיבה (adenoma)",
+      "achalasia – motility disorder של הוושט",
+      "דלקת קיבתית חריפה (למשל NSAIDs, אלכוהול, stress)"
+    ],
+    "correctIndex": 3,
+    "explanation": "acute gastritis: דלקת חריפה – גורמים: NSAIDs, אלכוהול, stress (ICU), bile reflux, viral. תסמינים: epigastric pain, nausea, bleeding. chronic gastritis: H. pylori, autoimmune. לא גידול או achalasia."
+  },
+  {
+    "id": 37,
+    "category": "פצעת עיכול / גסטריטיס",
+    "question": "מהו autoimmune (atrophic) gastritis?",
+    "options": [
+      "אוטואימונית נגד parietal cells → חוסר B12 ו-pernicious anemia",
+      "דלקת אנטרלית מ-H. pylori בלבד",
+      "דלקת חריפה erosive מ-NSAIDs",
+      "גסטריטיס ללא השפעה על ספיגת B12"
+    ],
+    "correctIndex": 0,
+    "explanation": "autoimmune gastritis: antibodies נגד parietal cells / intrinsic factor → atrophy, achlorhydria, hypergastrinemia, vitamin B12 deficiency → pernicious anemia. סיכון מוגבר ל-gastric cancer. שונה מ-H. pylori gastritis."
+  },
+  {
+    "id": 38,
+    "category": "פצעת עיכול / גסטריטיס",
+    "question": "מהו סיבוך מסוכן של פצעת עיכול?",
+    "options": [
+      "צהבת obstructive מ-gallstones",
+      "דימום, perforation, obstruction",
+      "התפתחות IBD (Crohn/UC)",
+      "gastric outlet obstruction – היצרות מוצא קיבה"
+    ],
+    "correctIndex": 1,
+    "explanation": "סיבוכי פצעת עיכול: hemorrhage (הכי שכיח), perforation (חירום כירורגי), gastric outlet obstruction (stricture/edema). צהבת, IBD ו-gastric outlet obstruction מצוין בסיכום ישירים של פצעת עיכול."
+  },
+  {
+    "id": 39,
+    "category": "פצעת עיכול / גסטריטיס",
+    "question": "איך מאבחנים H. pylori?",
+    "options": [
+      "בדיקת B12 בדם – לאבחון pernicious anemia",
+      "colonoscopy בלבד ללא biopsy קיבתי",
+      "urea breath test, stool antigen, biopsy עם histology/rapid urease",
+      "ERCP – לבדיקת ampulla of Vater"
+    ],
+    "correctIndex": 2,
+    "explanation": "אבחון H. pylori: urea breath test (לאחר הפסקת PPI/antibiotics), stool antigen, endoscopic biopsy (histology, rapid urease test, culture). serology פחות שימושי לאחר טיפול. B12, colonoscopy ו-ERCP לא לאבחון H. pylori."
+  },
+  {
+    "id": 40,
+    "category": "פצעת עיכול / גסטריטיס",
+    "question": "מהו MALT lymphoma בקיבה?",
+    "options": [
+      "adenocarcinoma – סרטן אפיתלiali שכיח בקיבה",
+      "adenocarcinoma – סרטן שכיח של הקיבה",
+      "פצעת peptic פשוטה עם דימום",
+      "lymphoma לימפואידי קשור ל-H. pylori, עשוי להגיב ל-eradication"
+    ],
+    "correctIndex": 3,
+    "explanation": "gastric MALT lymphoma: low-grade B-cell lymphoma קשור ל-H. pylori כרוני. שלבים מוקדמים עשויים להיגמר לאחר eradication של H. pylori. שונה מ-adenocarcinoma, adenocarcinoma ופצעת."
+  },
+  {
+    "id": 41,
+    "category": "פיזיולוגיה והורמונים",
+    "question": "מה תפקיד gastrin?",
+    "options": [
+      "גירוי הפרשת HCl מתאי parietal וגדילת רירית קיבתית",
+      "עיכוב הפרשת HCl ו-stimulation של somatostatin",
+      "גירוי הפרשת bicarbonate מ-pancreas",
+      "ספיגת גלוקוז ב-jejunum"
+    ],
+    "correctIndex": 0,
+    "explanation": "gastrin (מ-G cells באנטרום): מגביר הפרשת HCl (parietal cells), מגביר תנועת קיבה, גדילת mucosa. מופרש בתגובה לאכילה, distension, peptides. somatostatin ו-secretin מעכבים."
+  },
+  {
+    "id": 42,
+    "category": "פיזיולוגיה והורמונים",
+    "question": "מה תפקיד secretin?",
+    "options": [
+      "גירוי הפרשת HCl מ-parietal cells",
+      "גירוי הפרשת bicarbonate מ-pancreas ו-bile, עיכוב gastrin",
+      "גירוי ghrelin ותיאבון",
+      "ספיגת שומן ישירה ב-duodenum"
+    ],
+    "correctIndex": 1,
+    "explanation": "secretin (מ-S cells ב-duodenum): מופרש בתגובה לחומצה ב-duodenum. מגביר bicarbonate מ-pancreas ו-ductal cells כבד, מעכב gastrin ו-HCl. לא מגביר HCl, ghrelin או ספיגת שומן ישירה."
+  },
+  {
+    "id": 43,
+    "category": "פיזיולוגיה והורמונים",
+    "question": "מה תפקיד CCK (cholecystokinin)?",
+    "options": [
+      "גירוי הפרשת HCl מ-parietal cells",
+      "גירוי אינסולין מתאי β בלבלב",
+      "גירוי הפרשת אנזימים לבלב, התכווצות כיס מרה, ספינcter of Oddi",
+      "פריסטלטיקה וושטית בזמן בליעה"
+    ],
+    "correctIndex": 2,
+    "explanation": "CCK (מ-I cells): מופרש בתגובה לשומן ו-amino acids. מגביר pancreatic enzyme secretion, gallbladder contraction, relaxation of sphincter of Oddi, מעכב ריקון קיבה. לא HCl, אינסולין בלבד או פריסטלטיקה וושטית."
+  },
+  {
+    "id": 44,
+    "category": "פיזיולוגיה והורמונים",
+    "question": "מה תפקיד ghrelin?",
+    "options": [
+      "סומטוסטטין – עיכוב הפרשות",
+      "CCK – גירוי הפרשת אנזימי לבלב",
+      "somatostatin – מעכב הפרשות ו-motility",
+      "הורמון רעב מקיבה, מגביר תיאבון"
+    ],
+    "correctIndex": 3,
+    "explanation": "גרלין מופרש מתאים אנדוקריניים בקיבה ומתאי אפסילון בלבלב בזמן צום, מגביר תיאבון ומשחרר GH. סומטוסטטין ו-CCK הם הורמונים אחרים במערכת העיכול. לא HCl או B12."
+  },
+  {
+    "id": 45,
+    "category": "פיזיולוגיה והורמונים",
+    "question": "מהי peristalsis?",
+    "options": [
+      "גל תנועה מעייתי שמקדם תוכן קדימה",
+      "segmentation – תנועה מקומית לעירבוב ללא קידום",
+      "הפרשת אנזימים מ-pancreas ל-duodenum",
+      "ספיגת מים פסיבית ב-colon"
+    ],
+    "correctIndex": 0,
+    "explanation": "peristalsis: contraction proximal + relaxation distal (פריסטלטיקה) מקדם bolus קדימה. נשלטת על ידי enteric nervous system (Auerbach, Meissner) ו-modulated by autonomic/vagal. לא תנועה הפוכה בלבד, הפרשה או ספיגה."
+  },
+  {
+    "id": 46,
+    "category": "פיזיולוגיה והורמונים",
+    "question": "מהם שלבי עיכול המערכת לפי הסיכום?",
+    "options": [
+      "מכני (פה+קיבה), בליעה (לוע+ושט), כימי, ספיגה, הפרשת פסולת",
+      "רק ספיגה במעי גס ללא עיכול כימי",
+      "רק הפרשת פסולת בפה ולוע",
+      "עיכול כימי בוושט בלבד ללא תפקיד מכני"
+    ],
+    "correctIndex": 0,
+    "explanation": "בסיכום – עיכול לפי שלבים: (1) מכני פה+קיבה; (2) בליעה לוע+ושט; (3) כימי פה+קיבה+מעי דק+מעי גס; (4) ספיגה; (5) הפרשת פסולת במעי גס."
+  },
+  {
+    "id": 47,
+    "category": "פיזיולוגיה והורמונים",
+    "question": "מה תפקיד somatostatin במערכת העיכול?",
+    "options": [
+      "גירוי HCl ו-gastrin release",
+      "גירוי תיאבון דרך hypothalamus",
+      "עיכוב gastrin, HCl, pancreatic secretion",
+      "ספיגת שומן ב-ileum"
+    ],
+    "correctIndex": 2,
+    "explanation": "somatostatin (מ-D cells): מעכב gastrin, HCl, pancreatic/biliary secretion, GI motility. universal inhibitor. לא מגביר HCl, תיאבון או ספיגת שומן."
+  },
+  {
+    "id": 48,
+    "category": "פיזיולוגיה והורמונים",
+    "question": "מה קורה בשלב cephalic של עיכול?",
+    "options": [
+      "ספיגת חומרי מזון ב-jejunum",
+      "peristalsis במעי הגס – mass movement",
+      "הפרשת bile מ-hepatocytes ל-duodenum",
+      "הפרשת רוק, HCl ואנזימים בתגובה לריח/מראה/טעם אוכל (vagus)"
+    ],
+    "correctIndex": 3,
+    "explanation": "cephalic phase: vagal stimulation → saliva, gastric HCl, pepsinogen לפני בליעה. gastric phase: distension, peptides. intestinal phase: CCK, secretin. לא ספיגה, מעי גס בלבד או bile בלבד."
+  },
+  {
+    "id": 49,
+    "category": "פיזיולוגיה והורמונים",
+    "question": "איך מתבצעת ספיגת B12?",
+    "options": [
+      "קשורה ל-intrinsic factor ב-ileum terminal",
+      "ספיגה פסיבית ב-duodenum ללא intrinsic factor",
+      "ספיגה ישירה על ידי parietal cells בקיבה",
+      "סינתזה וספיגה על ידי bacteria ב-colon"
+    ],
+    "correctIndex": 0,
+    "explanation": "B12: נספג ב-ileum terminal דרך complex עם intrinsic factor (מ-parietal cells). ליקוי ב-pernicious anemia, resection ileum, Crohn ileal. לא duodenum, קיבה או colon."
+  },
+  {
+    "id": 50,
+    "category": "פיזיולוגיה והורמונים",
+    "question": "מה תפקיד המרה (bile) בפירוק שומנים לפי הסיכום?",
+    "options": [
+      "אמולסיה – הפיכת שומנים לטיפות קטנות יותר לספיגה",
+      "ספיגת גלוקוז ישירות דרך SGLT1 ב-jejunum",
+      "הפרשת intrinsic factor לספיגת B12 בקיבה",
+      "ניטרול חומצת הקיבה ב-duodenum בלבד ללא תפקיד בשומן"
+    ],
+    "correctIndex": 0,
+    "explanation": "בסיכום: כיס המרה מפריש מרה למעי הדק; המרה מתחלבת שומנים (הופכת לטיפות קטנות). lipase מהלבלב משלים. B12 נספג ב-terminal ileum עם IF. ניטרול חומצה – bicarbonate מלבלב."
+  }
+]

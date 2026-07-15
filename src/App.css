@@ -166,6 +166,18 @@
   line-height: 1.7;
 }
 
+.copyright {
+  margin-top: 1.25rem;
+  font-size: 0.8rem;
+  color: var(--muted);
+  opacity: 0.85;
+}
+
+.quiz-copyright {
+  text-align: center;
+  margin-top: 2rem;
+}
+
 /* Quiz */
 .screen {
   position: relative;
@@ -230,6 +242,12 @@
   line-height: 1.5;
   margin-bottom: 1.35rem;
   color: var(--text);
+}
+
+.question-text.clinical {
+  font-size: clamp(1rem, 3.2vw, 1.2rem);
+  font-weight: 600;
+  line-height: 1.65;
 }
 
 .options {
@@ -422,6 +440,13 @@
 .results-pct {
   color: var(--muted);
   margin-bottom: 1.5rem;
+}
+
+.results-card .copyright {
+  margin-top: 1.5rem;
+  margin-bottom: 0;
+  font-size: 0.78rem;
+  color: var(--muted);
 }
 
 @keyframes fadeIn {

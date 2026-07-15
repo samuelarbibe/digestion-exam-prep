@@ -27,6 +27,15 @@ function QuizScreen({
   const [answered, setAnswered] = useState(0);
 
   const q = pool[index];
+  const displayed = useMemo(() => {
+    const opts = [...q.options];
+    const correct = opts[q.correctIndex];
+    const shuffled = shuffle(opts);
+    return {
+      options: shuffled,
+      correctIndex: shuffled.indexOf(correct),
+    };
+  }, [q]);
   const done = index >= pool.length;
   const progress = pool.length ? ((index + (revealed ? 1 : 0)) / pool.length) * 100 : 0;
 
@@ -35,7 +44,7 @@ function QuizScreen({
     setSelected(i);
     setRevealed(true);
     setAnswered((a) => a + 1);
-    if (i === q.correctIndex) setScore((s) => s + 1);
+    if (i === displayed.correctIndex) setScore((s) => s + 1);
   };
 
   const next = () => {
@@ -66,6 +75,7 @@ function QuizScreen({
               חזרה לתפריט
             </button>
           </div>
+          <p className="copyright">כל הזכויות שמורות לשמוליק</p>
         </div>
       </div>
     );
@@ -89,12 +99,12 @@ function QuizScreen({
       </header>
 
       <article className="question-card">
-        <h2 className="question-text">{q.question}</h2>
+        <h2 className={`question-text${q.category === "מקרה קליני" ? " clinical" : ""}`}>{q.question}</h2>
         <ul className="options" role="listbox" aria-label="אפשרויות תשובה">
-          {q.options.map((opt, i) => {
+          {displayed.options.map((opt, i) => {
             let cls = "option";
             if (revealed) {
-              if (i === q.correctIndex) cls += " correct";
+              if (i === displayed.correctIndex) cls += " correct";
               else if (i === selected) cls += " wrong";
               else cls += " dim";
             } else if (selected === i) cls += " selected";
@@ -121,10 +131,10 @@ function QuizScreen({
 
         {revealed && (
           <div
-            className={`explanation ${selected === q.correctIndex ? "ok" : "miss"}`}
+            className={`explanation ${selected === displayed.correctIndex ? "ok" : "miss"}`}
           >
             <h3>
-              {selected === q.correctIndex ? "✓ נכון!" : "✗ תשובה נכונה מסומנת"}
+              {selected === displayed.correctIndex ? "✓ נכון!" : "✗ תשובה נכונה מסומנת"}
             </h3>
             <p>{q.explanation}</p>
           </div>
@@ -141,6 +151,7 @@ function QuizScreen({
           </div>
         )}
       </article>
+      <p className="copyright quiz-copyright">כל הזכויות שמורות לשמוליק</p>
     </div>
   );
 }
@@ -180,7 +191,7 @@ export default function App() {
           <h1>מערכת העיכול</h1>
           <p className="subtitle">
             {questions.length} שאלות איכותיות עם הסברים מלאים — היסטולוגיה,
-            פתופיזיולוגיה, קליניקה וטיפול
+            פתופיזיולוגיה, קליניקה, טיפול ומקרים קליניים
           </p>
         </header>
 
@@ -194,6 +205,17 @@ export default function App() {
             <div>
               <h3>תרגול מעורב</h3>
               <p>כל {questions.length} השאלות בסדר אקראי</p>
+            </div>
+          </button>
+          <button
+            type="button"
+            className="action-card"
+            onClick={() => start(true, "מקרה קליני")}
+          >
+            <span className="action-icon">🩺</span>
+            <div>
+              <h3>מקרים קליניים</h3>
+              <p>אבחנה ובדיקות — סיפורי מטופלים אמיתיים</p>
             </div>
           </button>
           <button
@@ -231,6 +253,7 @@ export default function App() {
             בחר תשובה כדי לראות הסבר מלא — כולל רשימות גורמי סיכון, קליניקה,
             טיפול ומאפיינים היסטולוגיים
           </p>
+          <p className="copyright">כל הזכויות שמורות לשמוליק</p>
         </footer>
       </main>
     </div>
